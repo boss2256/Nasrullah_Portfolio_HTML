@@ -27,3 +27,27 @@ footer {
     background-color: #222;
     color: #bbb;
 }
+
+.tech-logo {
+    height: 50px;
+    object-fit: contain;
+}
+
+.card {
+    border-radius: 15px;
+}
+
+.card .card-img-top {
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+@media (max-width: 576px) {
+    .navbar-brand {
+        font-size: 1.2rem;
+    }
+
+    .navbar-nav .nav-link {
+        font-size: 1rem;
+    }
+}
