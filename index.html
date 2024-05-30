@@ -1,13 +1,19 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Nasrullah's Portfolio</title>
-    <!-- Bootstrap CSS -->
-    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="css/style.css">
-</head>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Nasrullah's Portfolio</title>
+        <!-- Bootstrap CSS -->
+        <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+        <link rel="stylesheet" href="css/style.css">
+        <style>
+            html {
+                scroll-behavior: smooth;
+            }
+        </style>
+    </head>
+    
 <body>
 
     <!-- Navbar -->
@@ -37,11 +43,12 @@
     <!-- Header -->
     <header class="bg-primary text-white text-center py-5">
         <div class="container">
-            <h1 class="display-4">Welcome to My Portfolio</h1>
+            <h1 class="display-4">Welcome to My Portfolio!</h1>
             <p class="lead">Hi, I'm Nasrullah (Nas) Nazaruddin🚀. Aspiring AI Startup Co-Founder (Tech Lead) | 🏆 Lee Hsien Loong Distinguished Award Winner | 💡 Deeeeeply Passionate about Neural Networks, Data Science, and STEM | 🌏 Committed to making Singapore the next AI Hub.</p>
             <img src="images/squarenasrul.png" alt="Nasrullah's Portrait" class="rounded-circle" width="150">
             <div class="mt-4">
                 <a href="https://www.linkedin.com/in/nesruler" target="_blank" class="btn btn-light">View LinkedIn Profile</a>
+                <a href="#featured-projects" class="btn btn-light">View Projects</a>
             </div>
         </div>
     </header>
@@ -52,64 +59,104 @@
             <h2 class="mb-4 text-center">Tech Stack</h2>
             <div class="d-flex flex-wrap justify-content-center">
                 <!-- Add logos of the tech stack here -->
+                <img src="images/python.png" alt="Python" class="tech-logo mx-2 my-2" style="height: 50px; object-fit: contain;">
                 <img src="images/react.png" alt="React.js" class="tech-logo mx-2 my-2" style="height: 50px; object-fit: contain;">
                 <img src="images/nodejs.png" alt="Node.js" class="tech-logo mx-2 my-2" style="height: 50px; object-fit: contain;">
-                <img src="images/python.png" alt="Python" class="tech-logo mx-2 my-2" style="height: 50px; object-fit: contain;">
                 <img src="images/aws.png" alt="AWS" class="tech-logo mx-2 my-2" style="height: 50px; object-fit: contain;">
                 <img src="images/gcp.png" alt="GCP" class="tech-logo mx-2 my-2" style="height: 50px; object-fit: contain;">
+                <img src="images/docker.png" alt="Docker" class="tech-logo mx-2 my-2" style="height: 50px; object-fit: contain;">
+                <img src="images/heroku.png" alt="Heroku" class="tech-logo mx-2 my-2" style="height: 50px; object-fit: contain;">
+                <img src="images/kafka.png" alt="Kafka" class="tech-logo mx-2 my-2" style="height: 50px; object-fit: contain;">
+            </div>
+        </div>
+    </section>
+    <!-- Data Science Section -->
+    <section class="py-5 bg-light">
+        <div class="container">
+            <h2 class="mb-4 text-center">Data Science & Machine Learning</h2>
+            <div class="d-flex flex-wrap justify-content-center">
+                <!-- Add logos of the data science tools here -->
                 <img src="images/mongodb.png" alt="MongoDB" class="tech-logo mx-2 my-2" style="height: 50px; object-fit: contain;">
                 <img src="images/sql.png" alt="SQL" class="tech-logo mx-2 my-2" style="height: 50px; object-fit: contain;">
+                <img src="images/mysql.png" alt="MySQL" class="tech-logo mx-2 my-2" style="height: 50px; object-fit: contain;">
                 <img src="images/pandas.png" alt="Pandas" class="tech-logo mx-2 my-2" style="height: 50px; object-fit: contain;">
                 <img src="images/seaborn.png" alt="Seaborn" class="tech-logo mx-2 my-2" style="height: 50px; object-fit: contain;">
                 <img src="images/plotly.png" alt="Plotly" class="tech-logo mx-2 my-2" style="height: 50px; object-fit: contain;">
                 <img src="images/scikit.png" alt="Scikit-Learn" class="tech-logo mx-2 my-2" style="height: 50px; object-fit: contain;">
+                <img src="images/pycaret.png" alt="PyCaret" class="tech-logo mx-2 my-2" style="height: 50px; object-fit: contain;">
                 <img src="images/tensorflow.png" alt="TensorFlow" class="tech-logo mx-2 my-2" style="height: 50px; object-fit: contain;">
                 <img src="images/pytorch.png" alt="PyTorch" class="tech-logo mx-2 my-2" style="height: 50px; object-fit: contain;">
                 <img src="images/posgres.png" alt="PosgresSQL" class="tech-logo mx-2 my-2" style="height: 50px; object-fit: contain;">
-                <!-- Add other logos as needed -->
+                <img src="images/mlflow.png" alt="MLFlow" class="tech-logo mx-2 my-2" style="height: 50px; object-fit: contain;">
+                <img src="images/databricks.png" alt="Databricks" class="tech-logo mx-2 my-2" style="height: 50px; object-fit: contain;">
+                <img src="images/powerbi.png" alt="PowerBI" class="tech-logo mx-2 my-2" style="height: 50px; object-fit: contain;">
+                <img src="images/tableau.png" alt="Tableau" class="tech-logo mx-2 my-2" style="height: 50px; object-fit: contain;">
+                <img src="images/knime.png" alt="Knime" class="tech-logo mx-2 my-2" style="height: 50px; object-fit: contain;">
+                <img src="images/rapidminer.png" alt="RapidMiner" class="tech-logo mx-2 my-2" style="height: 50px; object-fit: contain;">
+                <img src="images/orange.png" alt="Orange Data Mining" class="tech-logo mx-2 my-2" style="height: 50px; object-fit: contain;">
             </div>
         </div>
     </section>
 
+
+
     <!-- Projects Section -->
-    <section class="py-5">
+    <section id="featured-projects" class="py-5">
         <div class="container">
-            <h2 class="mb-4">Projects</h2>
+            <h2 class="mb-4">Featured Projects</h2>
             <div class="row">
                 <div class="col-lg-4 col-md-6 mb-4">
                     <div class="card rounded">
                         <img src="images/app.png" class="card-img-top rounded-top" alt="SignVision App">
                         <div class="card-body">
                             <h5 class="card-title">SignVision</h5>
-                            <p class="card-text">A real-time sign language translator leveraging AI and deep learning.</p>
+                            <p class="card-text">A real-time sign language translator leveraging AI (OpenAI API) and deep learning.</p>
                             <a href="https://medium.com/@nesruler/signvision-a-real-time-mobile-sign-language-recognition-application-using-chatgpt-1ce73a0c6a55" class="btn btn-primary" target="_blank">Learn More</a>
                         </div>
                     </div>
                 </div>
-                <!-- Add more project cards as needed -->
+                <!-- Early MRI Dementia Detection using CNN and FNN -->
                 <div class="col-lg-4 col-md-6 mb-4">
                     <div class="card rounded">
-                        <img src="images/project1.jpg" class="card-img-top rounded-top" alt="Project 1">
+                        <img src="images/dementia.png" class="card-img-top rounded-top" alt="Early MRI Dementia Detection">
                         <div class="card-body">
-                            <h5 class="card-title">Project 1</h5>
-                            <p class="card-text">Description of Project 1.</p>
-                            <a href="#" class="btn btn-primary">Learn More</a>
+                            <h5 class="card-title">Early MRI Dementia Detection using CNN and FNN</h5>
+                            <p class="card-text">An AI-based solution for early detection of dementia using MRI scans, leveraging Convolutional Neural Networks (CNN) and Feedforward Neural Networks (FNN).</p>
+                            <a href="https://github.com/boss2256/Dementia-AI-Detection" class="btn btn-primary" target="_blank">Learn More</a>
+                            <a href="https://dementiadetection-51c4fdc49ae6.herokuapp.com/" class="btn btn-primary" target="_blank">Launch App</a>
                         </div>
                     </div>
                 </div>
+                <!-- Rental Home Price Prediction -->
                 <div class="col-lg-4 col-md-6 mb-4">
                     <div class="card rounded">
-                        <img src="images/project2.jpg" class="card-img-top rounded-top" alt="Project 2">
+                        <img src="images/rental_prediction.png" class="card-img-top rounded-top" alt="Rental Home Price Prediction">
                         <div class="card-body">
-                            <h5 class="card-title">Project 2</h5>
-                            <p class="card-text">Description of Project 2.</p>
-                            <a href="#" class="btn btn-primary">Learn More</a>
+                            <h5 class="card-title">Rental Home Price Prediction using MLOps, PyCaret, MLFlow</h5>
+                            <p class="card-text">Predict rental home prices based on various features using a regression machine learning model.</p>
+                            <a href="https://github.com/boss2256/MLOps-Web-Application" class="btn btn-primary" target="_blank">Learn More</a>
+                            <a href="https://mlops-prediction-nas-shaqirah-eaba5152ba6d.herokuapp.com/" class="btn btn-primary" target="_blank">Launch App</a>
+                        </div>
+                    </div>
+                </div>
+                <!-- VisionAnything -->
+                <div class="col-lg-4 col-md-6 mb-4">
+                    <div class="card rounded">
+                        <img src="images/visionanything.png" class="card-img-top rounded-top" alt="VisionAnything">
+                        <div class="card-body">
+                            <h5 class="card-title">VisionAnything</h5>
+                            <p class="card-text">A real-time image segmentation application using the Segment Anything Model (SAM) and deep learning to assist in children's cognitive development by identifying everyday objects.</p>
+                            <a href="https://github.com/boss2256/VisionAnything-SAM-OpenAI" class="btn btn-primary" target="_blank">Learn More</a>
+                            <a href="https://visionanything-f611522951e1.herokuapp.com/" class="btn btn-primary" target="_blank">Launch App</a>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </section>
+
+
+
 
     <!-- Footer -->
     <footer class="bg-dark text-white text-center py-3">
