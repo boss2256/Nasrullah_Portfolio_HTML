@@ -1,0 +1,1361 @@
+ShipmentID,Destination_Country,Destination_City,Type_of_Laptop,Brand,Quantity,Shipment_Date,Expected_Delivery_Date,Shipping_Cost,Status
+1,India,Mumbai,Business,Microsoft,31,1/1/2024,5/1/2024,354,Shipped
+2,France,Toronto,Ultrabook,Acer,73,2/1/2024,6/1/2024,101,Shipped
+3,Australia,Berlin,Convertible,Dell,45,3/1/2024,7/1/2024,419,Pending
+4,Brazil,Toronto,Convertible,Acer,66,4/1/2024,8/1/2024,412,Pending
+5,UK,Paris,Business,Asus,8,5/1/2024,9/1/2024,334,Shipped
+6,Australia,Beijing,Netbook,HP,71,6/1/2024,10/1/2024,454,Delivered
+7,India,New York,Convertible,Microsoft,57,7/1/2024,11/1/2024,383,Delivered
+8,France,Paris,Business,Dell,80,8/1/2024,12/1/2024,58,Cancelled
+9,Germany,Beijing,Gaming,Apple,99,9/1/2024,13/1/2024,300,Shipped
+10,India,New York,Netbook,Microsoft,30,10/1/2024,14/1/2024,480,Delivered
+11,India,Beijing,Ultrabook,Samsung,74,11/1/2024,15/1/2024,381,Shipped
+12,UK,Mumbai,Convertible,Lenovo,18,12/1/2024,16/1/2024,347,Delivered
+13,Japan,Berlin,Business,Acer,69,13/1/2024,17/1/2024,484,Cancelled
+14,France,Sao Paulo,Gaming,Dell,93,14/1/2024,18/1/2024,233,Cancelled
+15,Canada,Paris,Ultrabook,Microsoft,39,15/1/2024,19/1/2024,228,Shipped
+16,India,Paris,Business,Acer,60,16/1/2024,20/1/2024,247,Delivered
+17,Japan,Tokyo,Business,Dell,98,17/1/2024,21/1/2024,177,Pending
+18,Canada,Sydney,Ultrabook,Asus,43,18/1/2024,22/1/2024,69,Cancelled
+19,France,Mumbai,Gaming,Microsoft,45,19/1/2024,23/1/2024,460,Shipped
+20,USA,Mumbai,Gaming,Asus,23,20/1/2024,24/1/2024,471,Shipped
+21,Brazil,Toronto,Netbook,Microsoft,69,21/1/2024,25/1/2024,377,Delivered
+22,Japan,Beijing,Convertible,Asus,94,22/1/2024,26/1/2024,114,Shipped
+23,China,Sydney,Ultrabook,Samsung,6,23/1/2024,27/1/2024,231,Cancelled
+24,USA,Berlin,Ultrabook,Acer,56,24/1/2024,28/1/2024,290,Shipped
+25,Brazil,Berlin,Ultrabook,Apple,4,25/1/2024,29/1/2024,418,Shipped
+26,UK,Mumbai,Gaming,Microsoft,93,26/1/2024,30/1/2024,73,Pending
+27,Australia,Berlin,Convertible,Samsung,23,27/1/2024,31/1/2024,433,Pending
+28,Germany,Tokyo,Netbook,Microsoft,6,28/1/2024,1/2/2024,480,Cancelled
+29,China,Paris,Business,Asus,32,29/1/2024,2/2/2024,132,Delivered
+30,UK,London,Business,Dell,18,30/1/2024,3/2/2024,368,Pending
+31,France,Sao Paulo,Ultrabook,Microsoft,15,31/1/2024,4/2/2024,234,Delivered
+32,UK,Toronto,Convertible,Samsung,40,1/2/2024,5/2/2024,488,Cancelled
+33,Australia,Beijing,Gaming,Asus,96,2/2/2024,6/2/2024,365,Pending
+34,France,Sao Paulo,Convertible,HP,73,3/2/2024,7/2/2024,148,Delivered
+35,China,Beijing,Convertible,Asus,74,4/2/2024,8/2/2024,111,Pending
+36,Australia,New York,Gaming,Acer,84,5/2/2024,9/2/2024,335,Cancelled
+37,Canada,Sao Paulo,Ultrabook,Apple,6,6/2/2024,10/2/2024,71,Cancelled
+38,Germany,London,Convertible,HP,63,7/2/2024,11/2/2024,261,Pending
+39,China,Mumbai,Business,Acer,67,8/2/2024,12/2/2024,175,Delivered
+40,Canada,Tokyo,Gaming,Acer,11,9/2/2024,13/2/2024,462,Shipped
+41,Brazil,Paris,Netbook,Acer,43,10/2/2024,14/2/2024,474,Shipped
+42,China,Paris,Ultrabook,Dell,17,11/2/2024,15/2/2024,91,Pending
+43,Brazil,Tokyo,Gaming,Acer,96,12/2/2024,16/2/2024,147,Delivered
+44,France,Sydney,Netbook,Dell,4,13/2/2024,17/2/2024,498,Shipped
+45,Canada,New York,Netbook,Acer,63,14/2/2024,18/2/2024,80,Cancelled
+46,Germany,Beijing,Convertible,Lenovo,68,15/2/2024,19/2/2024,207,Delivered
+47,Australia,London,Convertible,Samsung,81,16/2/2024,20/2/2024,161,Shipped
+48,India,Berlin,Convertible,HP,41,17/2/2024,21/2/2024,451,Delivered
+49,UK,Sao Paulo,Gaming,Lenovo,83,18/2/2024,22/2/2024,296,Pending
+50,USA,New York,Gaming,Acer,5,19/2/2024,23/2/2024,171,Delivered
+51,Germany,Sao Paulo,Ultrabook,HP,32,20/2/2024,24/2/2024,322,Shipped
+52,Canada,London,Convertible,HP,86,21/2/2024,25/2/2024,343,Pending
+53,India,Toronto,Netbook,Microsoft,70,22/2/2024,26/2/2024,447,Delivered
+54,Germany,Toronto,Business,Apple,35,23/2/2024,27/2/2024,256,Cancelled
+55,Canada,New York,Ultrabook,Lenovo,22,24/2/2024,28/2/2024,159,Shipped
+56,Japan,Mumbai,Gaming,Apple,65,25/2/2024,29/2/2024,489,Pending
+57,Japan,London,Ultrabook,HP,84,26/2/2024,1/3/2024,327,Delivered
+58,Brazil,London,Ultrabook,Dell,22,27/2/2024,2/3/2024,105,Cancelled
+59,Germany,Tokyo,Ultrabook,HP,11,28/2/2024,3/3/2024,424,Shipped
+60,Japan,Mumbai,Ultrabook,Apple,77,29/2/2024,4/3/2024,452,Cancelled
+61,Canada,Beijing,Business,Lenovo,3,1/3/2024,5/3/2024,106,Delivered
+62,Brazil,Beijing,Convertible,Acer,9,2/3/2024,6/3/2024,477,Delivered
+63,Canada,Berlin,Netbook,Microsoft,60,3/3/2024,7/3/2024,340,Pending
+64,Brazil,Paris,Ultrabook,Microsoft,76,4/3/2024,8/3/2024,163,Cancelled
+65,Germany,Toronto,Ultrabook,Microsoft,87,5/3/2024,9/3/2024,430,Pending
+66,India,Beijing,Ultrabook,Acer,14,6/3/2024,10/3/2024,434,Shipped
+67,Australia,Mumbai,Convertible,Microsoft,97,7/3/2024,11/3/2024,357,Pending
+68,China,London,Gaming,Lenovo,18,8/3/2024,12/3/2024,390,Shipped
+69,India,Beijing,Gaming,Acer,73,9/3/2024,13/3/2024,247,Delivered
+70,France,London,Business,Microsoft,23,10/3/2024,14/3/2024,470,Delivered
+71,Canada,Beijing,Gaming,Acer,74,11/3/2024,15/3/2024,370,Cancelled
+72,France,Toronto,Ultrabook,Apple,83,12/3/2024,16/3/2024,228,Shipped
+73,India,Sao Paulo,Ultrabook,Samsung,47,13/3/2024,17/3/2024,434,Delivered
+74,Brazil,Beijing,Ultrabook,Samsung,69,14/3/2024,18/3/2024,268,Cancelled
+75,China,Mumbai,Business,Lenovo,47,15/3/2024,19/3/2024,326,Cancelled
+76,China,Beijing,Ultrabook,Asus,87,16/3/2024,20/3/2024,486,Pending
+77,USA,Paris,Gaming,Dell,30,17/3/2024,21/3/2024,65,Cancelled
+78,China,Toronto,Convertible,Microsoft,25,18/3/2024,22/3/2024,428,Delivered
+79,Australia,Mumbai,Convertible,Dell,28,19/3/2024,23/3/2024,110,Pending
+80,China,Tokyo,Netbook,Acer,98,20/3/2024,24/3/2024,103,Shipped
+81,India,Mumbai,Gaming,Dell,25,21/3/2024,25/3/2024,217,Shipped
+82,USA,Paris,Ultrabook,Lenovo,74,22/3/2024,26/3/2024,75,Delivered
+83,India,Sao Paulo,Convertible,Lenovo,78,23/3/2024,27/3/2024,385,Delivered
+84,India,Toronto,Gaming,HP,58,24/3/2024,28/3/2024,114,Pending
+85,UK,Tokyo,Convertible,Samsung,94,25/3/2024,29/3/2024,149,Pending
+86,USA,Paris,Ultrabook,Microsoft,41,26/3/2024,30/3/2024,123,Delivered
+87,India,Paris,Convertible,HP,25,27/3/2024,31/3/2024,241,Delivered
+88,UK,New York,Netbook,Dell,78,28/3/2024,1/4/2024,220,Shipped
+89,UK,Toronto,Netbook,Asus,99,29/3/2024,2/4/2024,322,Shipped
+90,USA,Mumbai,Convertible,HP,48,30/3/2024,3/4/2024,426,Shipped
+91,France,London,Gaming,HP,98,31/3/2024,4/4/2024,236,Delivered
+92,Brazil,Sao Paulo,Gaming,Lenovo,10,1/4/2024,5/4/2024,72,Cancelled
+93,Australia,London,Gaming,Asus,99,2/4/2024,6/4/2024,440,Delivered
+94,Brazil,Mumbai,Convertible,Acer,75,3/4/2024,7/4/2024,477,Delivered
+95,China,Mumbai,Gaming,Dell,11,4/4/2024,8/4/2024,230,Shipped
+96,Australia,Toronto,Ultrabook,HP,85,5/4/2024,9/4/2024,376,Delivered
+97,China,Mumbai,Netbook,Asus,21,6/4/2024,10/4/2024,157,Pending
+98,India,New York,Ultrabook,Samsung,86,7/4/2024,11/4/2024,384,Delivered
+99,Canada,Tokyo,Gaming,Microsoft,45,8/4/2024,12/4/2024,211,Delivered
+100,USA,Mumbai,Ultrabook,Asus,7,9/4/2024,13/4/2024,351,Delivered
+101,Australia,London,Gaming,Samsung,81,10/4/2024,14/4/2024,255,Delivered
+102,Australia,Mumbai,Convertible,Dell,64,11/4/2024,15/4/2024,127,Cancelled
+103,India,New York,Ultrabook,Asus,64,12/4/2024,16/4/2024,65,Delivered
+104,France,Beijing,Convertible,Samsung,2,13/4/2024,17/4/2024,376,Pending
+105,UK,Beijing,Convertible,Asus,76,14/4/2024,18/4/2024,145,Pending
+106,India,Paris,Business,Asus,42,15/4/2024,19/4/2024,196,Delivered
+107,Japan,Sao Paulo,Gaming,Microsoft,82,16/4/2024,20/4/2024,51,Shipped
+108,UK,Berlin,Netbook,Samsung,54,17/4/2024,21/4/2024,59,Cancelled
+109,USA,Tokyo,Gaming,Samsung,75,18/4/2024,22/4/2024,483,Delivered
+110,UK,Sydney,Netbook,HP,16,19/4/2024,23/4/2024,174,Delivered
+111,France,Paris,Gaming,Dell,18,20/4/2024,24/4/2024,130,Delivered
+112,UK,Sao Paulo,Convertible,Microsoft,99,21/4/2024,25/4/2024,189,Shipped
+113,USA,Beijing,Ultrabook,Asus,59,22/4/2024,26/4/2024,375,Shipped
+114,France,London,Ultrabook,Asus,90,23/4/2024,27/4/2024,199,Shipped
+115,Brazil,Sydney,Business,HP,16,24/4/2024,28/4/2024,337,Cancelled
+116,Australia,Sao Paulo,Netbook,Dell,6,25/4/2024,29/4/2024,410,Pending
+117,Australia,Sao Paulo,Netbook,Lenovo,57,26/4/2024,30/4/2024,389,Cancelled
+118,China,Paris,Netbook,Microsoft,47,27/4/2024,1/5/2024,178,Shipped
+119,Brazil,Sydney,Convertible,HP,48,28/4/2024,2/5/2024,487,Pending
+120,Brazil,Toronto,Netbook,Dell,42,29/4/2024,3/5/2024,288,Pending
+121,UK,Berlin,Ultrabook,Microsoft,76,30/4/2024,4/5/2024,107,Shipped
+122,Australia,Toronto,Convertible,Asus,60,1/5/2024,5/5/2024,247,Shipped
+123,USA,Sydney,Gaming,Dell,77,2/5/2024,6/5/2024,260,Cancelled
+124,Germany,Toronto,Netbook,Dell,4,3/5/2024,7/5/2024,451,Shipped
+125,Germany,New York,Netbook,Acer,2,4/5/2024,8/5/2024,439,Pending
+126,France,Beijing,Gaming,Dell,90,5/5/2024,9/5/2024,94,Delivered
+127,Australia,New York,Netbook,Lenovo,59,6/5/2024,10/5/2024,146,Shipped
+128,Australia,Mumbai,Gaming,Dell,27,7/5/2024,11/5/2024,328,Shipped
+129,Germany,Toronto,Convertible,Lenovo,27,8/5/2024,12/5/2024,72,Cancelled
+130,Australia,Mumbai,Ultrabook,Asus,79,9/5/2024,13/5/2024,459,Cancelled
+131,UK,London,Gaming,Lenovo,72,10/5/2024,14/5/2024,440,Shipped
+132,Japan,Tokyo,Business,Microsoft,7,11/5/2024,15/5/2024,384,Pending
+133,Canada,London,Gaming,Asus,63,12/5/2024,16/5/2024,93,Pending
+134,Brazil,Sydney,Netbook,Asus,46,13/5/2024,17/5/2024,76,Delivered
+135,China,Sao Paulo,Convertible,Lenovo,63,14/5/2024,18/5/2024,331,Shipped
+136,France,Beijing,Convertible,Samsung,12,15/5/2024,19/5/2024,146,Cancelled
+137,Japan,Toronto,Gaming,HP,13,16/5/2024,20/5/2024,85,Pending
+138,Germany,Paris,Ultrabook,Apple,43,17/5/2024,21/5/2024,158,Delivered
+139,Brazil,Tokyo,Business,Samsung,17,18/5/2024,22/5/2024,104,Shipped
+140,Australia,Berlin,Convertible,Dell,63,19/5/2024,23/5/2024,241,Pending
+141,China,Berlin,Netbook,Acer,81,20/5/2024,24/5/2024,268,Shipped
+142,Australia,Berlin,Netbook,Apple,36,21/5/2024,25/5/2024,234,Shipped
+143,USA,Toronto,Ultrabook,Dell,85,22/5/2024,26/5/2024,118,Pending
+144,USA,Berlin,Convertible,Samsung,8,23/5/2024,27/5/2024,366,Pending
+145,China,New York,Gaming,Samsung,69,24/5/2024,28/5/2024,179,Pending
+146,China,Tokyo,Netbook,Dell,90,25/5/2024,29/5/2024,104,Shipped
+147,Germany,New York,Ultrabook,Asus,80,26/5/2024,30/5/2024,427,Shipped
+148,China,Sao Paulo,Convertible,Dell,36,27/5/2024,31/5/2024,146,Delivered
+149,UK,Tokyo,Convertible,Acer,28,28/5/2024,1/6/2024,385,Cancelled
+150,Australia,New York,Convertible,Samsung,93,29/5/2024,2/6/2024,136,Shipped
+151,Japan,Tokyo,Convertible,Dell,47,30/5/2024,3/6/2024,343,Cancelled
+152,India,Sao Paulo,Convertible,Lenovo,76,31/5/2024,4/6/2024,168,Pending
+153,China,Mumbai,Netbook,Apple,30,1/6/2024,5/6/2024,257,Shipped
+154,France,Toronto,Ultrabook,Lenovo,23,2/6/2024,6/6/2024,383,Delivered
+155,USA,Toronto,Convertible,Acer,16,3/6/2024,7/6/2024,462,Delivered
+156,UK,Berlin,Business,Dell,14,4/6/2024,8/6/2024,203,Cancelled
+157,Brazil,London,Business,Microsoft,74,5/6/2024,9/6/2024,84,Pending
+158,India,Berlin,Ultrabook,Acer,71,6/6/2024,10/6/2024,128,Cancelled
+159,Japan,Sydney,Gaming,Asus,52,7/6/2024,11/6/2024,116,Pending
+160,India,New York,Gaming,Lenovo,37,8/6/2024,12/6/2024,392,Delivered
+161,China,Tokyo,Gaming,Lenovo,29,9/6/2024,13/6/2024,462,Cancelled
+162,Germany,London,Business,HP,67,10/6/2024,14/6/2024,83,Delivered
+163,USA,Sao Paulo,Gaming,Dell,15,11/6/2024,15/6/2024,146,Delivered
+164,USA,Sydney,Netbook,Asus,47,12/6/2024,16/6/2024,218,Pending
+165,Brazil,Sao Paulo,Convertible,Microsoft,46,13/6/2024,17/6/2024,218,Cancelled
+166,Germany,Toronto,Business,Lenovo,52,14/6/2024,18/6/2024,200,Cancelled
+167,Australia,Toronto,Ultrabook,Lenovo,19,15/6/2024,19/6/2024,120,Delivered
+168,Canada,Berlin,Ultrabook,Asus,77,16/6/2024,20/6/2024,52,Delivered
+169,UK,New York,Convertible,Acer,21,17/6/2024,21/6/2024,363,Pending
+170,USA,London,Business,Acer,64,18/6/2024,22/6/2024,81,Shipped
+171,France,Beijing,Gaming,Dell,37,19/6/2024,23/6/2024,336,Shipped
+172,USA,Sydney,Gaming,Samsung,27,20/6/2024,24/6/2024,131,Delivered
+173,India,Sydney,Netbook,HP,55,21/6/2024,25/6/2024,92,Shipped
+174,USA,Berlin,Netbook,Lenovo,29,22/6/2024,26/6/2024,440,Shipped
+175,USA,Toronto,Gaming,Samsung,20,23/6/2024,27/6/2024,154,Shipped
+176,Canada,Berlin,Ultrabook,Samsung,25,24/6/2024,28/6/2024,50,Shipped
+177,Canada,Tokyo,Ultrabook,HP,70,25/6/2024,29/6/2024,110,Delivered
+178,Japan,London,Netbook,Samsung,63,26/6/2024,30/6/2024,319,Shipped
+179,Australia,New York,Convertible,Samsung,36,27/6/2024,1/7/2024,229,Shipped
+180,France,Mumbai,Gaming,Acer,2,28/6/2024,2/7/2024,273,Pending
+181,USA,Paris,Netbook,Acer,22,29/6/2024,3/7/2024,55,Delivered
+182,USA,Paris,Netbook,Apple,96,30/6/2024,4/7/2024,152,Cancelled
+183,UK,Berlin,Gaming,Microsoft,16,1/7/2024,5/7/2024,59,Cancelled
+184,Canada,Tokyo,Gaming,Dell,18,2/7/2024,6/7/2024,120,Pending
+185,France,London,Ultrabook,Samsung,69,3/7/2024,7/7/2024,139,Pending
+186,Brazil,Beijing,Convertible,Apple,54,4/7/2024,8/7/2024,275,Delivered
+187,Japan,Paris,Convertible,Microsoft,30,5/7/2024,9/7/2024,207,Cancelled
+188,Australia,London,Gaming,Apple,45,6/7/2024,10/7/2024,277,Shipped
+189,Germany,New York,Business,Apple,19,7/7/2024,11/7/2024,454,Pending
+190,Australia,Sao Paulo,Netbook,Dell,87,8/7/2024,12/7/2024,175,Cancelled
+191,India,Tokyo,Netbook,Dell,34,9/7/2024,13/7/2024,493,Delivered
+192,USA,Toronto,Gaming,Asus,13,10/7/2024,14/7/2024,258,Shipped
+193,Japan,London,Business,HP,43,11/7/2024,15/7/2024,146,Delivered
+194,India,New York,Ultrabook,HP,62,12/7/2024,16/7/2024,123,Pending
+195,France,Beijing,Gaming,Asus,93,13/7/2024,17/7/2024,164,Cancelled
+196,Germany,Mumbai,Gaming,Asus,22,14/7/2024,18/7/2024,240,Cancelled
+197,Canada,Toronto,Netbook,Acer,52,15/7/2024,19/7/2024,219,Cancelled
+198,Japan,Mumbai,Gaming,Microsoft,52,16/7/2024,20/7/2024,356,Cancelled
+199,Japan,Beijing,Gaming,Apple,36,17/7/2024,21/7/2024,497,Shipped
+200,USA,New York,Gaming,Samsung,73,18/7/2024,22/7/2024,253,Shipped
+201,China,Paris,Netbook,Asus,19,19/7/2024,23/7/2024,105,Delivered
+202,Japan,Mumbai,Ultrabook,Lenovo,38,20/7/2024,24/7/2024,257,Shipped
+203,UK,Toronto,Ultrabook,HP,70,21/7/2024,25/7/2024,90,Pending
+204,Germany,Berlin,Gaming,Asus,79,22/7/2024,26/7/2024,81,Pending
+205,Germany,Sydney,Netbook,Lenovo,57,23/7/2024,27/7/2024,64,Cancelled
+206,UK,London,Ultrabook,Lenovo,20,24/7/2024,28/7/2024,111,Pending
+207,Brazil,Paris,Ultrabook,Lenovo,9,25/7/2024,29/7/2024,204,Delivered
+208,UK,Mumbai,Ultrabook,Acer,32,26/7/2024,30/7/2024,333,Shipped
+209,UK,Sao Paulo,Netbook,Acer,4,27/7/2024,31/7/2024,258,Shipped
+210,Germany,London,Netbook,Samsung,50,28/7/2024,1/8/2024,369,Shipped
+211,Australia,Berlin,Gaming,Samsung,82,29/7/2024,2/8/2024,236,Pending
+212,Germany,Beijing,Convertible,Lenovo,5,30/7/2024,3/8/2024,491,Shipped
+213,China,Sydney,Ultrabook,Microsoft,20,31/7/2024,4/8/2024,179,Cancelled
+214,USA,New York,Convertible,Acer,87,1/8/2024,5/8/2024,176,Cancelled
+215,India,Berlin,Netbook,Apple,75,2/8/2024,6/8/2024,341,Cancelled
+216,Australia,Berlin,Netbook,Lenovo,37,3/8/2024,7/8/2024,163,Pending
+217,Canada,Beijing,Netbook,Apple,22,4/8/2024,8/8/2024,248,Shipped
+218,India,Tokyo,Convertible,Apple,58,5/8/2024,9/8/2024,62,Pending
+219,USA,Beijing,Netbook,Lenovo,68,6/8/2024,10/8/2024,320,Shipped
+220,China,Tokyo,Gaming,HP,93,7/8/2024,11/8/2024,138,Delivered
+221,China,Tokyo,Netbook,Microsoft,44,8/8/2024,12/8/2024,264,Delivered
+222,Canada,Paris,Business,Lenovo,34,9/8/2024,13/8/2024,493,Pending
+223,Australia,Paris,Convertible,Samsung,77,10/8/2024,14/8/2024,327,Cancelled
+224,Brazil,Toronto,Business,Lenovo,42,11/8/2024,15/8/2024,496,Pending
+225,UK,Mumbai,Netbook,Acer,9,12/8/2024,16/8/2024,252,Cancelled
+226,Australia,Mumbai,Gaming,Lenovo,95,13/8/2024,17/8/2024,123,Shipped
+227,Brazil,New York,Ultrabook,HP,7,14/8/2024,18/8/2024,74,Cancelled
+228,China,Mumbai,Netbook,Acer,68,15/8/2024,19/8/2024,150,Cancelled
+229,Germany,Paris,Gaming,Samsung,19,16/8/2024,20/8/2024,225,Shipped
+230,USA,Toronto,Convertible,Dell,94,17/8/2024,21/8/2024,476,Delivered
+231,Canada,Toronto,Business,Dell,31,18/8/2024,22/8/2024,166,Shipped
+232,USA,Tokyo,Business,Apple,35,19/8/2024,23/8/2024,215,Pending
+233,France,Beijing,Business,Microsoft,57,20/8/2024,24/8/2024,90,Pending
+234,France,New York,Convertible,Apple,85,21/8/2024,25/8/2024,478,Pending
+235,Australia,Tokyo,Gaming,HP,61,22/8/2024,26/8/2024,393,Pending
+236,China,Beijing,Convertible,Asus,31,23/8/2024,27/8/2024,473,Pending
+237,China,Mumbai,Business,Samsung,83,24/8/2024,28/8/2024,415,Delivered
+238,UK,Tokyo,Netbook,Microsoft,95,25/8/2024,29/8/2024,169,Delivered
+239,UK,London,Ultrabook,Samsung,53,26/8/2024,30/8/2024,146,Cancelled
+240,UK,Mumbai,Convertible,Dell,32,27/8/2024,31/8/2024,194,Pending
+241,Germany,Beijing,Convertible,Apple,66,28/8/2024,1/9/2024,265,Shipped
+242,India,New York,Gaming,Samsung,59,29/8/2024,2/9/2024,278,Pending
+243,Japan,Beijing,Gaming,Dell,10,30/8/2024,3/9/2024,362,Delivered
+244,India,Tokyo,Convertible,HP,2,31/8/2024,4/9/2024,179,Pending
+245,USA,Tokyo,Business,HP,66,1/9/2024,5/9/2024,401,Delivered
+246,India,Berlin,Ultrabook,Asus,60,2/9/2024,6/9/2024,426,Cancelled
+247,Germany,New York,Gaming,Samsung,88,3/9/2024,7/9/2024,367,Cancelled
+248,USA,Sao Paulo,Business,Asus,17,4/9/2024,8/9/2024,186,Cancelled
+249,India,Mumbai,Netbook,Acer,96,5/9/2024,9/9/2024,373,Delivered
+250,Germany,Toronto,Gaming,Microsoft,16,6/9/2024,10/9/2024,386,Pending
+251,Japan,New York,Business,Samsung,16,7/9/2024,11/9/2024,322,Pending
+252,India,Toronto,Business,HP,46,8/9/2024,12/9/2024,166,Shipped
+253,Germany,New York,Ultrabook,Apple,39,9/9/2024,13/9/2024,355,Delivered
+254,UK,New York,Ultrabook,Dell,31,10/9/2024,14/9/2024,417,Shipped
+255,China,Beijing,Netbook,Lenovo,88,11/9/2024,15/9/2024,143,Cancelled
+256,UK,New York,Business,Asus,1,12/9/2024,16/9/2024,217,Pending
+257,China,Berlin,Business,Lenovo,11,13/9/2024,17/9/2024,491,Delivered
+258,Canada,Sao Paulo,Ultrabook,Samsung,85,14/9/2024,18/9/2024,252,Shipped
+259,Canada,Tokyo,Gaming,Apple,4,15/9/2024,19/9/2024,390,Shipped
+260,Canada,Sydney,Gaming,Asus,71,16/9/2024,20/9/2024,198,Shipped
+261,Japan,Toronto,Convertible,Lenovo,26,17/9/2024,21/9/2024,451,Pending
+262,UK,Tokyo,Ultrabook,Microsoft,50,18/9/2024,22/9/2024,232,Pending
+263,China,Sydney,Convertible,Apple,12,19/9/2024,23/9/2024,462,Pending
+264,Germany,Sao Paulo,Ultrabook,Dell,95,20/9/2024,24/9/2024,201,Delivered
+265,USA,Sao Paulo,Netbook,Microsoft,81,21/9/2024,25/9/2024,123,Pending
+266,Germany,Toronto,Business,Apple,97,22/9/2024,26/9/2024,414,Delivered
+267,USA,Toronto,Netbook,Acer,75,23/9/2024,27/9/2024,450,Shipped
+268,France,Sao Paulo,Ultrabook,Asus,92,24/9/2024,28/9/2024,323,Shipped
+269,Germany,Sydney,Business,HP,96,25/9/2024,29/9/2024,91,Cancelled
+270,India,New York,Gaming,Dell,65,26/9/2024,30/9/2024,261,Pending
+271,India,Mumbai,Gaming,Samsung,47,27/9/2024,1/10/2024,150,Shipped
+272,Australia,London,Convertible,Microsoft,92,28/9/2024,2/10/2024,94,Pending
+273,UK,Tokyo,Ultrabook,Microsoft,53,29/9/2024,3/10/2024,131,Delivered
+274,USA,Beijing,Ultrabook,Lenovo,71,30/9/2024,4/10/2024,66,Shipped
+275,USA,Tokyo,Gaming,Asus,2,1/10/2024,5/10/2024,122,Pending
+276,UK,Beijing,Netbook,Samsung,24,2/10/2024,6/10/2024,63,Shipped
+277,Japan,Sydney,Business,HP,4,3/10/2024,7/10/2024,482,Shipped
+278,Australia,Beijing,Netbook,Apple,19,4/10/2024,8/10/2024,206,Pending
+279,Japan,Toronto,Netbook,HP,26,5/10/2024,9/10/2024,272,Shipped
+280,Japan,Mumbai,Gaming,Asus,75,6/10/2024,10/10/2024,181,Shipped
+281,Japan,Mumbai,Gaming,Asus,40,7/10/2024,11/10/2024,387,Shipped
+282,UK,Toronto,Gaming,Acer,50,8/10/2024,12/10/2024,453,Shipped
+283,Japan,Berlin,Convertible,Acer,43,9/10/2024,13/10/2024,425,Delivered
+284,India,Sydney,Netbook,HP,75,10/10/2024,14/10/2024,425,Shipped
+285,Canada,Berlin,Ultrabook,Apple,67,11/10/2024,15/10/2024,96,Cancelled
+286,France,Berlin,Business,HP,12,12/10/2024,16/10/2024,156,Shipped
+287,USA,Tokyo,Convertible,Asus,67,13/10/2024,17/10/2024,157,Pending
+288,USA,Sao Paulo,Ultrabook,Asus,27,14/10/2024,18/10/2024,314,Cancelled
+289,France,Tokyo,Netbook,Lenovo,54,15/10/2024,19/10/2024,254,Delivered
+290,UK,Sao Paulo,Gaming,Acer,66,16/10/2024,20/10/2024,128,Cancelled
+291,Germany,London,Netbook,Samsung,49,17/10/2024,21/10/2024,204,Cancelled
+292,UK,Beijing,Business,Samsung,16,18/10/2024,22/10/2024,320,Cancelled
+293,USA,Sao Paulo,Convertible,Samsung,2,19/10/2024,23/10/2024,296,Pending
+294,USA,Toronto,Convertible,Lenovo,60,20/10/2024,24/10/2024,68,Pending
+295,France,Tokyo,Business,Dell,54,21/10/2024,25/10/2024,395,Pending
+296,Japan,Sydney,Ultrabook,Samsung,30,22/10/2024,26/10/2024,485,Delivered
+297,UK,Beijing,Ultrabook,Asus,84,23/10/2024,27/10/2024,75,Pending
+298,China,London,Convertible,Lenovo,38,24/10/2024,28/10/2024,266,Pending
+299,France,Sao Paulo,Convertible,HP,28,25/10/2024,29/10/2024,203,Cancelled
+300,India,London,Gaming,Acer,25,26/10/2024,30/10/2024,203,Pending
+301,USA,Sydney,Ultrabook,Acer,96,27/10/2024,31/10/2024,223,Shipped
+302,France,Berlin,Business,Apple,10,28/10/2024,1/11/2024,141,Pending
+303,UK,Mumbai,Ultrabook,HP,60,29/10/2024,2/11/2024,482,Delivered
+304,USA,Sydney,Gaming,Apple,42,30/10/2024,3/11/2024,387,Delivered
+305,Germany,Paris,Convertible,Lenovo,40,31/10/2024,4/11/2024,230,Shipped
+306,France,Sydney,Convertible,Microsoft,97,1/11/2024,5/11/2024,180,Delivered
+307,Australia,London,Gaming,Samsung,77,2/11/2024,6/11/2024,499,Delivered
+308,USA,Toronto,Business,Dell,42,3/11/2024,7/11/2024,347,Cancelled
+309,UK,Tokyo,Convertible,HP,47,4/11/2024,8/11/2024,324,Shipped
+310,Canada,Toronto,Netbook,HP,37,5/11/2024,9/11/2024,322,Cancelled
+311,China,London,Convertible,HP,80,6/11/2024,10/11/2024,466,Cancelled
+312,Brazil,Tokyo,Netbook,Apple,22,7/11/2024,11/11/2024,125,Pending
+313,Japan,Paris,Gaming,Lenovo,57,8/11/2024,12/11/2024,226,Shipped
+314,Brazil,Mumbai,Gaming,HP,84,9/11/2024,13/11/2024,233,Pending
+315,UK,Beijing,Convertible,Microsoft,27,10/11/2024,14/11/2024,368,Pending
+316,India,London,Ultrabook,HP,41,11/11/2024,15/11/2024,180,Cancelled
+317,India,Sao Paulo,Netbook,Acer,80,12/11/2024,16/11/2024,412,Delivered
+318,Canada,London,Business,Samsung,34,13/11/2024,17/11/2024,98,Shipped
+319,Japan,London,Convertible,Dell,32,14/11/2024,18/11/2024,104,Delivered
+320,Australia,Tokyo,Business,Samsung,90,15/11/2024,19/11/2024,203,Cancelled
+321,Canada,New York,Convertible,Acer,89,16/11/2024,20/11/2024,404,Cancelled
+322,Brazil,Sydney,Ultrabook,Acer,66,17/11/2024,21/11/2024,249,Cancelled
+323,Canada,New York,Ultrabook,Dell,12,18/11/2024,22/11/2024,357,Cancelled
+324,Brazil,Paris,Ultrabook,Microsoft,40,19/11/2024,23/11/2024,405,Cancelled
+325,USA,Sao Paulo,Ultrabook,Lenovo,73,20/11/2024,24/11/2024,422,Cancelled
+326,India,Mumbai,Gaming,Acer,76,21/11/2024,25/11/2024,167,Delivered
+327,USA,Berlin,Gaming,Lenovo,90,22/11/2024,26/11/2024,312,Pending
+328,China,Paris,Netbook,Acer,73,23/11/2024,27/11/2024,95,Delivered
+329,Japan,Berlin,Business,Asus,10,24/11/2024,28/11/2024,351,Shipped
+330,Australia,Berlin,Convertible,Dell,96,25/11/2024,29/11/2024,405,Delivered
+331,Brazil,Mumbai,Convertible,Acer,98,26/11/2024,30/11/2024,449,Cancelled
+332,Australia,Toronto,Gaming,Asus,48,27/11/2024,1/12/2024,457,Delivered
+333,Brazil,New York,Convertible,Samsung,20,28/11/2024,2/12/2024,238,Pending
+334,UK,London,Gaming,Apple,39,29/11/2024,3/12/2024,359,Shipped
+335,Canada,Beijing,Netbook,Asus,60,30/11/2024,4/12/2024,367,Delivered
+336,China,Berlin,Business,HP,66,1/12/2024,5/12/2024,178,Pending
+337,India,Sao Paulo,Netbook,Acer,65,2/12/2024,6/12/2024,98,Delivered
+338,Brazil,Paris,Ultrabook,Asus,51,3/12/2024,7/12/2024,74,Shipped
+339,Australia,Toronto,Ultrabook,Lenovo,36,4/12/2024,8/12/2024,315,Delivered
+340,China,Berlin,Ultrabook,Apple,24,5/12/2024,9/12/2024,167,Cancelled
+341,Germany,Toronto,Netbook,Microsoft,27,6/12/2024,10/12/2024,193,Delivered
+342,Germany,Toronto,Convertible,Acer,2,7/12/2024,11/12/2024,491,Pending
+343,USA,Berlin,Business,HP,31,8/12/2024,12/12/2024,249,Delivered
+344,India,Tokyo,Ultrabook,Microsoft,57,9/12/2024,13/12/2024,206,Pending
+345,UK,Sydney,Ultrabook,Asus,78,10/12/2024,14/12/2024,397,Shipped
+346,Australia,Sao Paulo,Ultrabook,Microsoft,66,11/12/2024,15/12/2024,183,Delivered
+347,Canada,London,Business,Microsoft,29,12/12/2024,16/12/2024,449,Shipped
+348,Canada,London,Ultrabook,Apple,15,13/12/2024,17/12/2024,197,Shipped
+349,Australia,Sao Paulo,Business,Samsung,12,14/12/2024,18/12/2024,385,Delivered
+350,Japan,Tokyo,Ultrabook,Microsoft,28,15/12/2024,19/12/2024,120,Pending
+351,UK,London,Netbook,Microsoft,84,16/12/2024,20/12/2024,282,Shipped
+352,China,Toronto,Netbook,Acer,24,17/12/2024,21/12/2024,383,Shipped
+353,Brazil,Mumbai,Business,Samsung,21,18/12/2024,22/12/2024,348,Delivered
+354,Japan,Paris,Netbook,Apple,10,19/12/2024,23/12/2024,203,Delivered
+355,Brazil,New York,Business,HP,78,20/12/2024,24/12/2024,139,Delivered
+356,Brazil,London,Netbook,Asus,18,21/12/2024,25/12/2024,383,Delivered
+357,Japan,Sao Paulo,Netbook,Apple,88,22/12/2024,26/12/2024,248,Delivered
+358,USA,Mumbai,Business,Apple,14,23/12/2024,27/12/2024,210,Cancelled
+359,Germany,Berlin,Convertible,Dell,34,24/12/2024,28/12/2024,75,Delivered
+360,Brazil,Sydney,Netbook,Apple,58,25/12/2024,29/12/2024,170,Pending
+361,Japan,Sao Paulo,Ultrabook,Samsung,76,26/12/2024,30/12/2024,350,Shipped
+362,Japan,Toronto,Convertible,Dell,22,27/12/2024,31/12/2024,261,Pending
+363,France,Sydney,Business,Asus,70,28/12/2024,1/1/2025,112,Pending
+364,USA,Paris,Convertible,Microsoft,36,29/12/2024,2/1/2025,485,Cancelled
+365,India,Paris,Gaming,Acer,45,30/12/2024,3/1/2025,117,Delivered
+366,France,Tokyo,Gaming,Acer,36,31/12/2024,4/1/2025,302,Shipped
+367,France,Beijing,Netbook,Asus,22,1/1/2025,5/1/2025,459,Pending
+368,Australia,Tokyo,Netbook,Asus,78,2/1/2025,6/1/2025,51,Delivered
+369,Germany,Mumbai,Ultrabook,Samsung,80,3/1/2025,7/1/2025,447,Delivered
+370,Japan,Sydney,Convertible,Lenovo,61,4/1/2025,8/1/2025,157,Cancelled
+371,Germany,Beijing,Gaming,Microsoft,56,5/1/2025,9/1/2025,335,Cancelled
+372,UK,Berlin,Netbook,Asus,89,6/1/2025,10/1/2025,98,Cancelled
+373,Australia,Toronto,Convertible,Apple,96,7/1/2025,11/1/2025,189,Shipped
+374,India,Sydney,Netbook,Samsung,33,8/1/2025,12/1/2025,267,Pending
+375,Germany,Tokyo,Netbook,Acer,45,9/1/2025,13/1/2025,93,Cancelled
+376,Canada,New York,Gaming,HP,36,10/1/2025,14/1/2025,466,Cancelled
+377,Brazil,Beijing,Gaming,Samsung,20,11/1/2025,15/1/2025,318,Cancelled
+378,UK,Beijing,Netbook,Acer,18,12/1/2025,16/1/2025,127,Pending
+379,USA,Toronto,Business,Dell,38,13/1/2025,17/1/2025,265,Pending
+380,India,London,Netbook,Samsung,67,14/1/2025,18/1/2025,431,Cancelled
+381,UK,Paris,Netbook,Acer,23,15/1/2025,19/1/2025,147,Cancelled
+382,Brazil,Paris,Ultrabook,Lenovo,96,16/1/2025,20/1/2025,285,Delivered
+383,Australia,New York,Ultrabook,Samsung,16,17/1/2025,21/1/2025,331,Cancelled
+384,Brazil,Mumbai,Ultrabook,Samsung,59,18/1/2025,22/1/2025,198,Shipped
+385,France,Mumbai,Business,Microsoft,69,19/1/2025,23/1/2025,461,Shipped
+386,Brazil,Berlin,Business,Asus,68,20/1/2025,24/1/2025,353,Cancelled
+387,France,Sydney,Netbook,Microsoft,21,21/1/2025,25/1/2025,473,Pending
+388,Australia,Sao Paulo,Ultrabook,Samsung,78,22/1/2025,26/1/2025,115,Delivered
+389,China,London,Business,Asus,95,23/1/2025,27/1/2025,283,Pending
+390,France,Tokyo,Gaming,Acer,78,24/1/2025,28/1/2025,136,Cancelled
+391,USA,Sao Paulo,Netbook,HP,70,25/1/2025,29/1/2025,128,Shipped
+392,Brazil,Sao Paulo,Convertible,HP,12,26/1/2025,30/1/2025,254,Delivered
+393,Brazil,Beijing,Netbook,Samsung,16,27/1/2025,31/1/2025,328,Pending
+394,USA,New York,Convertible,Lenovo,81,28/1/2025,1/2/2025,386,Pending
+395,Canada,Paris,Ultrabook,Dell,87,29/1/2025,2/2/2025,303,Cancelled
+396,Japan,Berlin,Convertible,Acer,14,30/1/2025,3/2/2025,353,Delivered
+397,China,Mumbai,Ultrabook,Asus,61,31/1/2025,4/2/2025,429,Shipped
+398,India,New York,Gaming,Samsung,71,1/2/2025,5/2/2025,179,Cancelled
+399,France,Beijing,Convertible,Acer,46,2/2/2025,6/2/2025,133,Delivered
+400,USA,Tokyo,Netbook,Samsung,32,3/2/2025,7/2/2025,325,Pending
+401,Australia,Berlin,Ultrabook,Lenovo,15,4/2/2025,8/2/2025,236,Cancelled
+402,France,Beijing,Netbook,Apple,44,5/2/2025,9/2/2025,95,Pending
+403,Japan,Paris,Business,Apple,17,6/2/2025,10/2/2025,436,Pending
+404,Australia,Paris,Ultrabook,Lenovo,41,7/2/2025,11/2/2025,232,Cancelled
+405,UK,Paris,Convertible,Asus,54,8/2/2025,12/2/2025,317,Cancelled
+406,Brazil,New York,Ultrabook,Microsoft,44,9/2/2025,13/2/2025,345,Cancelled
+407,UK,New York,Netbook,Lenovo,98,10/2/2025,14/2/2025,371,Cancelled
+408,France,Mumbai,Gaming,Samsung,5,11/2/2025,15/2/2025,149,Cancelled
+409,Japan,Mumbai,Ultrabook,Asus,27,12/2/2025,16/2/2025,127,Pending
+410,China,Tokyo,Convertible,HP,87,13/2/2025,17/2/2025,321,Shipped
+411,France,Berlin,Business,Lenovo,78,14/2/2025,18/2/2025,388,Shipped
+412,USA,Toronto,Gaming,Asus,79,15/2/2025,19/2/2025,211,Cancelled
+413,Germany,Toronto,Business,Lenovo,43,16/2/2025,20/2/2025,93,Pending
+414,France,Beijing,Ultrabook,Lenovo,97,17/2/2025,21/2/2025,287,Shipped
+415,Brazil,Paris,Netbook,Microsoft,31,18/2/2025,22/2/2025,183,Shipped
+416,Brazil,Berlin,Netbook,Microsoft,99,19/2/2025,23/2/2025,241,Shipped
+417,France,Sao Paulo,Convertible,Samsung,17,20/2/2025,24/2/2025,405,Pending
+418,Australia,New York,Netbook,Asus,92,21/2/2025,25/2/2025,327,Cancelled
+419,Germany,Sydney,Gaming,Asus,83,22/2/2025,26/2/2025,67,Cancelled
+420,USA,London,Netbook,Dell,54,23/2/2025,27/2/2025,61,Cancelled
+421,France,Tokyo,Convertible,Lenovo,62,24/2/2025,28/2/2025,229,Delivered
+422,Australia,Paris,Ultrabook,Apple,87,25/2/2025,1/3/2025,172,Delivered
+423,Brazil,Paris,Ultrabook,Lenovo,32,26/2/2025,2/3/2025,295,Delivered
+424,Brazil,Paris,Netbook,Lenovo,40,27/2/2025,3/3/2025,271,Pending
+425,Japan,New York,Business,Asus,13,28/2/2025,4/3/2025,422,Shipped
+426,France,New York,Ultrabook,Lenovo,84,1/3/2025,5/3/2025,100,Shipped
+427,Germany,London,Netbook,Acer,35,2/3/2025,6/3/2025,120,Pending
+428,Canada,Sao Paulo,Convertible,Lenovo,5,3/3/2025,7/3/2025,97,Pending
+429,Germany,Berlin,Netbook,Acer,73,4/3/2025,8/3/2025,68,Cancelled
+430,Brazil,Paris,Ultrabook,Microsoft,29,5/3/2025,9/3/2025,311,Cancelled
+431,Brazil,Toronto,Convertible,Apple,70,6/3/2025,10/3/2025,133,Delivered
+432,UK,Mumbai,Netbook,Samsung,25,7/3/2025,11/3/2025,204,Delivered
+433,Brazil,Toronto,Gaming,Asus,95,8/3/2025,12/3/2025,102,Pending
+434,USA,Beijing,Convertible,Lenovo,22,9/3/2025,13/3/2025,156,Delivered
+435,India,Toronto,Gaming,Acer,66,10/3/2025,14/3/2025,406,Shipped
+436,France,Beijing,Business,Acer,45,11/3/2025,15/3/2025,353,Pending
+437,Germany,Sydney,Convertible,Microsoft,69,12/3/2025,16/3/2025,184,Pending
+438,India,Mumbai,Gaming,Acer,91,13/3/2025,17/3/2025,492,Shipped
+439,Australia,Toronto,Ultrabook,Samsung,89,14/3/2025,18/3/2025,118,Cancelled
+440,Canada,Sydney,Ultrabook,HP,72,15/3/2025,19/3/2025,60,Cancelled
+441,USA,Tokyo,Business,Dell,1,16/3/2025,20/3/2025,192,Shipped
+442,Germany,Berlin,Convertible,Samsung,84,17/3/2025,21/3/2025,241,Shipped
+443,India,Sydney,Convertible,Apple,44,18/3/2025,22/3/2025,436,Delivered
+444,Canada,Berlin,Convertible,Samsung,87,19/3/2025,23/3/2025,427,Pending
+445,UK,Toronto,Business,Microsoft,96,20/3/2025,24/3/2025,118,Delivered
+446,USA,Sao Paulo,Convertible,Microsoft,75,21/3/2025,25/3/2025,72,Shipped
+447,USA,Sydney,Ultrabook,Samsung,39,22/3/2025,26/3/2025,230,Delivered
+448,UK,Mumbai,Gaming,Lenovo,54,23/3/2025,27/3/2025,342,Shipped
+449,France,Toronto,Ultrabook,HP,88,24/3/2025,28/3/2025,58,Delivered
+450,UK,Paris,Ultrabook,Lenovo,75,25/3/2025,29/3/2025,320,Delivered
+451,USA,New York,Gaming,Lenovo,29,26/3/2025,30/3/2025,436,Cancelled
+452,USA,Sydney,Ultrabook,Samsung,54,27/3/2025,31/3/2025,142,Shipped
+453,India,Mumbai,Business,Asus,90,28/3/2025,1/4/2025,66,Delivered
+454,Brazil,Tokyo,Gaming,Asus,16,29/3/2025,2/4/2025,203,Pending
+455,Canada,Paris,Ultrabook,Asus,99,30/3/2025,3/4/2025,454,Delivered
+456,UK,Tokyo,Netbook,HP,20,31/3/2025,4/4/2025,377,Delivered
+457,Canada,Toronto,Ultrabook,Lenovo,46,1/4/2025,5/4/2025,198,Pending
+458,UK,New York,Business,Dell,67,2/4/2025,6/4/2025,426,Shipped
+459,Australia,Sydney,Convertible,Apple,65,3/4/2025,7/4/2025,316,Cancelled
+460,USA,Sydney,Ultrabook,Asus,58,4/4/2025,8/4/2025,471,Cancelled
+461,Brazil,Sao Paulo,Convertible,Asus,53,5/4/2025,9/4/2025,377,Cancelled
+462,India,Sao Paulo,Netbook,Microsoft,1,6/4/2025,10/4/2025,155,Pending
+463,Brazil,Toronto,Ultrabook,Lenovo,81,7/4/2025,11/4/2025,430,Delivered
+464,Brazil,Toronto,Gaming,Lenovo,66,8/4/2025,12/4/2025,84,Shipped
+465,Brazil,New York,Convertible,HP,29,9/4/2025,13/4/2025,168,Delivered
+466,Canada,Sao Paulo,Netbook,HP,84,10/4/2025,14/4/2025,63,Cancelled
+467,UK,Mumbai,Gaming,Asus,70,11/4/2025,15/4/2025,63,Delivered
+468,China,Mumbai,Gaming,Lenovo,8,12/4/2025,16/4/2025,315,Pending
+469,Australia,New York,Gaming,Dell,29,13/4/2025,17/4/2025,189,Pending
+470,Germany,Mumbai,Gaming,Apple,51,14/4/2025,18/4/2025,343,Shipped
+471,Brazil,Beijing,Ultrabook,Samsung,33,15/4/2025,19/4/2025,413,Shipped
+472,France,Berlin,Ultrabook,Lenovo,3,16/4/2025,20/4/2025,168,Cancelled
+473,Canada,New York,Ultrabook,Microsoft,60,17/4/2025,21/4/2025,287,Shipped
+474,India,New York,Netbook,Samsung,35,18/4/2025,22/4/2025,83,Delivered
+475,Germany,London,Netbook,Lenovo,69,19/4/2025,23/4/2025,218,Pending
+476,China,Paris,Netbook,Acer,91,20/4/2025,24/4/2025,59,Pending
+477,France,Paris,Business,HP,76,21/4/2025,25/4/2025,171,Pending
+478,China,Beijing,Netbook,Microsoft,84,22/4/2025,26/4/2025,450,Shipped
+479,Germany,Sao Paulo,Ultrabook,Apple,20,23/4/2025,27/4/2025,194,Pending
+480,Brazil,Toronto,Ultrabook,Asus,73,24/4/2025,28/4/2025,495,Pending
+481,France,Toronto,Business,Microsoft,39,25/4/2025,29/4/2025,272,Pending
+482,China,Tokyo,Business,Lenovo,4,26/4/2025,30/4/2025,420,Cancelled
+483,India,Beijing,Netbook,Asus,19,27/4/2025,1/5/2025,306,Cancelled
+484,UK,New York,Convertible,Lenovo,91,28/4/2025,2/5/2025,317,Shipped
+485,USA,Beijing,Business,Asus,45,29/4/2025,3/5/2025,408,Pending
+486,UK,Beijing,Gaming,Apple,43,30/4/2025,4/5/2025,53,Shipped
+487,Germany,Beijing,Ultrabook,HP,13,1/5/2025,5/5/2025,475,Pending
+488,Canada,Paris,Gaming,Apple,13,2/5/2025,6/5/2025,446,Pending
+489,USA,Beijing,Ultrabook,Acer,60,3/5/2025,7/5/2025,403,Pending
+490,Australia,Berlin,Ultrabook,Dell,57,4/5/2025,8/5/2025,155,Shipped
+491,India,Toronto,Business,HP,86,5/5/2025,9/5/2025,134,Shipped
+492,Australia,Tokyo,Business,Apple,92,6/5/2025,10/5/2025,263,Pending
+493,France,Berlin,Gaming,Acer,52,7/5/2025,11/5/2025,170,Delivered
+494,USA,Tokyo,Ultrabook,Dell,53,8/5/2025,12/5/2025,181,Shipped
+495,Australia,London,Gaming,Acer,86,9/5/2025,13/5/2025,387,Cancelled
+496,Australia,Tokyo,Convertible,Lenovo,43,10/5/2025,14/5/2025,246,Shipped
+497,China,Toronto,Gaming,Samsung,83,11/5/2025,15/5/2025,68,Pending
+498,UK,Toronto,Netbook,Lenovo,72,12/5/2025,16/5/2025,179,Delivered
+499,China,Beijing,Gaming,Asus,72,13/5/2025,17/5/2025,61,Pending
+500,USA,Sydney,Netbook,HP,42,14/5/2025,18/5/2025,130,Cancelled
+501,USA,London,Netbook,Lenovo,90,15/5/2025,19/5/2025,379,Shipped
+502,Germany,New York,Netbook,Microsoft,26,16/5/2025,20/5/2025,403,Shipped
+503,China,Mumbai,Convertible,Acer,23,17/5/2025,21/5/2025,311,Pending
+504,Japan,Tokyo,Gaming,HP,43,18/5/2025,22/5/2025,441,Pending
+505,UK,Sydney,Gaming,Samsung,77,19/5/2025,23/5/2025,174,Cancelled
+506,USA,Beijing,Convertible,Microsoft,28,20/5/2025,24/5/2025,356,Delivered
+507,Germany,Paris,Ultrabook,Lenovo,9,21/5/2025,25/5/2025,316,Cancelled
+508,China,New York,Business,Asus,20,22/5/2025,26/5/2025,496,Delivered
+509,UK,Sao Paulo,Gaming,Apple,56,23/5/2025,27/5/2025,490,Shipped
+510,China,Sydney,Business,Asus,83,24/5/2025,28/5/2025,432,Delivered
+511,Australia,Paris,Convertible,Microsoft,39,25/5/2025,29/5/2025,189,Delivered
+512,Germany,London,Ultrabook,Dell,51,26/5/2025,30/5/2025,378,Shipped
+513,UK,Beijing,Ultrabook,Lenovo,12,27/5/2025,31/5/2025,51,Shipped
+514,Brazil,New York,Ultrabook,Microsoft,79,28/5/2025,1/6/2025,57,Shipped
+515,France,New York,Convertible,Dell,95,29/5/2025,2/6/2025,299,Cancelled
+516,France,New York,Netbook,Dell,55,30/5/2025,3/6/2025,188,Shipped
+517,UK,London,Netbook,Acer,78,31/5/2025,4/6/2025,173,Pending
+518,China,Tokyo,Business,HP,11,1/6/2025,5/6/2025,358,Shipped
+519,Germany,Sao Paulo,Netbook,Acer,26,2/6/2025,6/6/2025,277,Shipped
+520,France,London,Netbook,Lenovo,42,3/6/2025,7/6/2025,59,Shipped
+521,Germany,Mumbai,Ultrabook,Dell,27,4/6/2025,8/6/2025,261,Delivered
+522,France,Sao Paulo,Ultrabook,Samsung,11,5/6/2025,9/6/2025,161,Cancelled
+523,Australia,Toronto,Business,Microsoft,38,6/6/2025,10/6/2025,57,Shipped
+524,China,Beijing,Gaming,Apple,98,7/6/2025,11/6/2025,341,Cancelled
+525,Australia,London,Business,Dell,43,8/6/2025,12/6/2025,411,Pending
+526,France,Paris,Business,Microsoft,19,9/6/2025,13/6/2025,302,Pending
+527,Brazil,Sao Paulo,Convertible,Samsung,64,10/6/2025,14/6/2025,63,Shipped
+528,Brazil,Mumbai,Convertible,Apple,6,11/6/2025,15/6/2025,289,Pending
+529,Australia,Toronto,Business,Acer,46,12/6/2025,16/6/2025,487,Cancelled
+530,Brazil,Tokyo,Business,Acer,42,13/6/2025,17/6/2025,291,Delivered
+531,France,Paris,Business,HP,92,14/6/2025,18/6/2025,391,Shipped
+532,UK,Sao Paulo,Netbook,Microsoft,65,15/6/2025,19/6/2025,198,Pending
+533,Australia,Beijing,Convertible,Dell,99,16/6/2025,20/6/2025,285,Cancelled
+534,Canada,Paris,Business,Asus,72,17/6/2025,21/6/2025,355,Cancelled
+535,China,Toronto,Ultrabook,Acer,59,18/6/2025,22/6/2025,216,Pending
+536,Brazil,Paris,Ultrabook,Acer,52,19/6/2025,23/6/2025,69,Cancelled
+537,Brazil,Berlin,Netbook,HP,47,20/6/2025,24/6/2025,265,Cancelled
+538,USA,Sydney,Netbook,Apple,7,21/6/2025,25/6/2025,392,Shipped
+539,Japan,Tokyo,Gaming,HP,11,22/6/2025,26/6/2025,184,Cancelled
+540,Australia,Toronto,Gaming,Samsung,61,23/6/2025,27/6/2025,442,Pending
+541,India,Paris,Gaming,Dell,68,24/6/2025,28/6/2025,178,Shipped
+542,Brazil,Sydney,Netbook,Microsoft,25,25/6/2025,29/6/2025,459,Pending
+543,China,Sydney,Netbook,Lenovo,12,26/6/2025,30/6/2025,471,Delivered
+544,Canada,Paris,Netbook,Lenovo,26,27/6/2025,1/7/2025,343,Pending
+545,Brazil,Beijing,Ultrabook,Microsoft,12,28/6/2025,2/7/2025,295,Pending
+546,Canada,Berlin,Netbook,Apple,43,29/6/2025,3/7/2025,238,Shipped
+547,France,London,Ultrabook,Samsung,51,30/6/2025,4/7/2025,93,Cancelled
+548,France,Berlin,Gaming,Acer,37,1/7/2025,5/7/2025,135,Pending
+549,Japan,Paris,Gaming,Apple,46,2/7/2025,6/7/2025,93,Shipped
+550,UK,Tokyo,Gaming,Acer,53,3/7/2025,7/7/2025,379,Delivered
+551,India,London,Business,Acer,88,4/7/2025,8/7/2025,424,Shipped
+552,USA,Toronto,Business,Lenovo,80,5/7/2025,9/7/2025,495,Shipped
+553,Japan,Berlin,Convertible,Apple,13,6/7/2025,10/7/2025,427,Cancelled
+554,Germany,Paris,Convertible,Samsung,89,7/7/2025,11/7/2025,439,Pending
+555,USA,Berlin,Convertible,HP,54,8/7/2025,12/7/2025,194,Delivered
+556,Australia,London,Business,Acer,57,9/7/2025,13/7/2025,100,Shipped
+557,China,Mumbai,Business,Asus,4,10/7/2025,14/7/2025,291,Pending
+558,Germany,Sao Paulo,Convertible,Asus,75,11/7/2025,15/7/2025,343,Pending
+559,Germany,Berlin,Convertible,HP,96,12/7/2025,16/7/2025,457,Shipped
+560,Japan,Toronto,Netbook,Asus,49,13/7/2025,17/7/2025,100,Pending
+561,UK,Toronto,Convertible,Dell,7,14/7/2025,18/7/2025,315,Shipped
+562,Japan,New York,Netbook,Acer,11,15/7/2025,19/7/2025,169,Shipped
+563,Australia,Berlin,Ultrabook,HP,92,16/7/2025,20/7/2025,249,Shipped
+564,Brazil,Sao Paulo,Business,Apple,54,17/7/2025,21/7/2025,454,Delivered
+565,Brazil,Beijing,Convertible,Acer,87,18/7/2025,22/7/2025,297,Shipped
+566,UK,Sydney,Business,HP,45,19/7/2025,23/7/2025,119,Cancelled
+567,Australia,Sao Paulo,Business,Lenovo,23,20/7/2025,24/7/2025,390,Pending
+568,UK,Sydney,Business,Samsung,28,21/7/2025,25/7/2025,106,Delivered
+569,Canada,Sydney,Ultrabook,Apple,57,22/7/2025,26/7/2025,431,Pending
+570,Brazil,Mumbai,Gaming,Samsung,26,23/7/2025,27/7/2025,88,Delivered
+571,Germany,New York,Convertible,Lenovo,25,24/7/2025,28/7/2025,338,Cancelled
+572,India,Sao Paulo,Gaming,Acer,54,25/7/2025,29/7/2025,492,Delivered
+573,China,Sao Paulo,Gaming,Apple,29,26/7/2025,30/7/2025,67,Delivered
+574,Australia,Mumbai,Gaming,Samsung,83,27/7/2025,31/7/2025,489,Delivered
+575,USA,Berlin,Business,Asus,97,28/7/2025,1/8/2025,269,Pending
+576,UK,Berlin,Netbook,Samsung,36,29/7/2025,2/8/2025,362,Shipped
+577,China,Berlin,Business,HP,14,30/7/2025,3/8/2025,293,Pending
+578,USA,Tokyo,Business,Acer,78,31/7/2025,4/8/2025,401,Shipped
+579,China,Sydney,Gaming,Dell,35,1/8/2025,5/8/2025,353,Pending
+580,India,Tokyo,Business,Samsung,30,2/8/2025,6/8/2025,347,Cancelled
+581,USA,New York,Gaming,Apple,92,3/8/2025,7/8/2025,332,Cancelled
+582,Japan,Mumbai,Netbook,Apple,17,4/8/2025,8/8/2025,123,Delivered
+583,France,Sao Paulo,Convertible,Microsoft,67,5/8/2025,9/8/2025,159,Cancelled
+584,Japan,Sydney,Gaming,Samsung,80,6/8/2025,10/8/2025,229,Delivered
+585,Brazil,Tokyo,Netbook,Acer,30,7/8/2025,11/8/2025,475,Shipped
+586,France,Tokyo,Convertible,Acer,93,8/8/2025,12/8/2025,81,Cancelled
+587,Japan,Paris,Ultrabook,Lenovo,45,9/8/2025,13/8/2025,283,Shipped
+588,France,Tokyo,Gaming,Microsoft,79,10/8/2025,14/8/2025,331,Pending
+589,France,Beijing,Gaming,Samsung,89,11/8/2025,15/8/2025,74,Shipped
+590,Germany,Sao Paulo,Ultrabook,Asus,51,12/8/2025,16/8/2025,380,Pending
+591,UK,Beijing,Ultrabook,Lenovo,47,13/8/2025,17/8/2025,328,Shipped
+592,UK,Sao Paulo,Gaming,Microsoft,53,14/8/2025,18/8/2025,275,Shipped
+593,Germany,Mumbai,Ultrabook,Samsung,64,15/8/2025,19/8/2025,106,Cancelled
+594,China,Sao Paulo,Business,Samsung,38,16/8/2025,20/8/2025,229,Shipped
+595,Canada,Beijing,Convertible,Lenovo,64,17/8/2025,21/8/2025,281,Cancelled
+596,China,Sao Paulo,Convertible,Asus,87,18/8/2025,22/8/2025,431,Cancelled
+597,USA,Mumbai,Convertible,Microsoft,89,19/8/2025,23/8/2025,392,Delivered
+598,USA,Mumbai,Business,Samsung,7,20/8/2025,24/8/2025,336,Delivered
+599,France,New York,Ultrabook,Samsung,22,21/8/2025,25/8/2025,113,Pending
+600,Japan,Sao Paulo,Netbook,Microsoft,81,22/8/2025,26/8/2025,281,Shipped
+601,Japan,Paris,Ultrabook,Dell,82,23/8/2025,27/8/2025,338,Pending
+602,UK,Berlin,Gaming,Lenovo,41,24/8/2025,28/8/2025,262,Shipped
+603,Australia,Toronto,Convertible,Lenovo,74,25/8/2025,29/8/2025,307,Delivered
+604,China,Mumbai,Ultrabook,Apple,10,26/8/2025,30/8/2025,67,Delivered
+605,Brazil,London,Netbook,Asus,57,27/8/2025,31/8/2025,224,Shipped
+606,India,Berlin,Gaming,HP,7,28/8/2025,1/9/2025,466,Shipped
+607,Japan,Sydney,Business,Dell,50,29/8/2025,2/9/2025,278,Delivered
+608,India,Sao Paulo,Business,Microsoft,91,30/8/2025,3/9/2025,275,Delivered
+609,France,Beijing,Netbook,Microsoft,52,31/8/2025,4/9/2025,133,Pending
+610,India,Toronto,Gaming,Microsoft,33,1/9/2025,5/9/2025,340,Delivered
+611,Brazil,London,Convertible,Dell,1,2/9/2025,6/9/2025,484,Shipped
+612,Germany,Berlin,Ultrabook,Samsung,53,3/9/2025,7/9/2025,419,Pending
+613,Brazil,Sao Paulo,Gaming,Microsoft,60,4/9/2025,8/9/2025,295,Shipped
+614,India,New York,Business,Microsoft,34,5/9/2025,9/9/2025,451,Cancelled
+615,Brazil,Sydney,Netbook,Asus,4,6/9/2025,10/9/2025,159,Pending
+616,Canada,Toronto,Netbook,Acer,17,7/9/2025,11/9/2025,303,Shipped
+617,France,Paris,Ultrabook,Acer,4,8/9/2025,12/9/2025,137,Delivered
+618,China,New York,Netbook,Apple,43,9/9/2025,13/9/2025,121,Cancelled
+619,Germany,London,Netbook,Apple,90,10/9/2025,14/9/2025,430,Shipped
+620,Japan,Toronto,Gaming,Microsoft,4,11/9/2025,15/9/2025,79,Pending
+621,USA,New York,Convertible,Asus,1,12/9/2025,16/9/2025,221,Shipped
+622,China,Sydney,Ultrabook,Microsoft,71,13/9/2025,17/9/2025,358,Cancelled
+623,USA,Paris,Gaming,Apple,94,14/9/2025,18/9/2025,443,Pending
+624,France,New York,Convertible,Dell,50,15/9/2025,19/9/2025,392,Cancelled
+625,Germany,Tokyo,Gaming,Dell,73,16/9/2025,20/9/2025,485,Shipped
+626,UK,Paris,Gaming,Samsung,61,17/9/2025,21/9/2025,226,Delivered
+627,Japan,London,Netbook,HP,35,18/9/2025,22/9/2025,188,Delivered
+628,Canada,Sydney,Convertible,Acer,8,19/9/2025,23/9/2025,243,Shipped
+629,UK,Sao Paulo,Ultrabook,Asus,24,20/9/2025,24/9/2025,235,Shipped
+630,France,Beijing,Ultrabook,Lenovo,83,21/9/2025,25/9/2025,267,Shipped
+631,China,Beijing,Convertible,Acer,36,22/9/2025,26/9/2025,213,Pending
+632,Canada,Beijing,Netbook,Lenovo,50,23/9/2025,27/9/2025,210,Cancelled
+633,Brazil,Toronto,Business,HP,43,24/9/2025,28/9/2025,480,Cancelled
+634,India,London,Gaming,HP,27,25/9/2025,29/9/2025,62,Cancelled
+635,Canada,Sydney,Netbook,Microsoft,32,26/9/2025,30/9/2025,345,Shipped
+636,France,Paris,Convertible,Apple,78,27/9/2025,1/10/2025,138,Cancelled
+637,Australia,Toronto,Gaming,HP,18,28/9/2025,2/10/2025,373,Shipped
+638,India,London,Ultrabook,HP,28,29/9/2025,3/10/2025,91,Pending
+639,USA,Sao Paulo,Business,Lenovo,29,30/9/2025,4/10/2025,452,Delivered
+640,Japan,Tokyo,Ultrabook,Apple,16,1/10/2025,5/10/2025,259,Shipped
+641,USA,Sydney,Convertible,HP,99,2/10/2025,6/10/2025,278,Shipped
+642,Canada,Beijing,Gaming,Acer,47,3/10/2025,7/10/2025,399,Delivered
+643,USA,New York,Convertible,Samsung,59,4/10/2025,8/10/2025,324,Delivered
+644,France,Sydney,Gaming,HP,31,5/10/2025,9/10/2025,491,Pending
+645,Brazil,Mumbai,Netbook,Samsung,4,6/10/2025,10/10/2025,328,Cancelled
+646,China,London,Business,Apple,37,7/10/2025,11/10/2025,300,Shipped
+647,Japan,Berlin,Netbook,Microsoft,17,8/10/2025,12/10/2025,359,Cancelled
+648,USA,Sao Paulo,Netbook,Asus,39,9/10/2025,13/10/2025,257,Shipped
+649,USA,Tokyo,Convertible,Apple,48,10/10/2025,14/10/2025,370,Pending
+650,Canada,Sao Paulo,Business,Lenovo,46,11/10/2025,15/10/2025,189,Delivered
+651,China,Sydney,Gaming,Asus,90,12/10/2025,16/10/2025,329,Pending
+652,UK,Berlin,Gaming,Acer,48,13/10/2025,17/10/2025,83,Delivered
+653,USA,Mumbai,Ultrabook,Dell,39,14/10/2025,18/10/2025,358,Cancelled
+654,France,Paris,Gaming,Samsung,4,15/10/2025,19/10/2025,441,Cancelled
+655,Australia,New York,Convertible,Samsung,30,16/10/2025,20/10/2025,67,Pending
+656,Japan,Berlin,Netbook,Samsung,30,17/10/2025,21/10/2025,106,Delivered
+657,USA,London,Netbook,Apple,22,18/10/2025,22/10/2025,161,Pending
+658,France,Beijing,Netbook,Samsung,75,19/10/2025,23/10/2025,54,Delivered
+659,France,Mumbai,Business,Microsoft,66,20/10/2025,24/10/2025,459,Delivered
+660,Japan,New York,Gaming,Samsung,12,21/10/2025,25/10/2025,463,Cancelled
+661,UK,Tokyo,Convertible,Lenovo,94,22/10/2025,26/10/2025,231,Cancelled
+662,France,Beijing,Business,Acer,36,23/10/2025,27/10/2025,62,Delivered
+663,Australia,Sydney,Ultrabook,Samsung,18,24/10/2025,28/10/2025,388,Delivered
+664,France,Berlin,Convertible,Samsung,90,25/10/2025,29/10/2025,334,Delivered
+665,France,New York,Convertible,Asus,53,26/10/2025,30/10/2025,308,Cancelled
+666,France,Toronto,Convertible,Acer,71,27/10/2025,31/10/2025,139,Cancelled
+667,Brazil,Paris,Netbook,Samsung,1,28/10/2025,1/11/2025,153,Shipped
+668,Brazil,Paris,Convertible,Apple,58,29/10/2025,2/11/2025,428,Delivered
+669,UK,Mumbai,Gaming,HP,90,30/10/2025,3/11/2025,235,Shipped
+670,USA,Tokyo,Convertible,Microsoft,87,31/10/2025,4/11/2025,299,Delivered
+671,France,Mumbai,Netbook,Apple,90,1/11/2025,5/11/2025,304,Cancelled
+672,China,Toronto,Convertible,Dell,6,2/11/2025,6/11/2025,125,Shipped
+673,USA,London,Ultrabook,Apple,70,3/11/2025,7/11/2025,435,Shipped
+674,UK,Tokyo,Ultrabook,Asus,44,4/11/2025,8/11/2025,157,Pending
+675,Germany,Sao Paulo,Netbook,Asus,72,5/11/2025,9/11/2025,205,Delivered
+676,USA,London,Gaming,Samsung,24,6/11/2025,10/11/2025,131,Cancelled
+677,USA,Tokyo,Gaming,Apple,86,7/11/2025,11/11/2025,126,Pending
+678,India,Tokyo,Business,Asus,19,8/11/2025,12/11/2025,307,Pending
+679,Canada,Toronto,Netbook,HP,18,9/11/2025,13/11/2025,176,Delivered
+680,India,Sydney,Convertible,Acer,95,10/11/2025,14/11/2025,440,Pending
+681,Australia,Toronto,Netbook,Apple,30,11/11/2025,15/11/2025,331,Delivered
+682,Brazil,Tokyo,Business,Microsoft,42,12/11/2025,16/11/2025,137,Pending
+683,Brazil,New York,Netbook,HP,33,13/11/2025,17/11/2025,253,Delivered
+684,Canada,London,Netbook,Samsung,74,14/11/2025,18/11/2025,65,Cancelled
+685,Japan,Toronto,Business,Acer,12,15/11/2025,19/11/2025,200,Delivered
+686,Japan,Sydney,Gaming,Microsoft,94,16/11/2025,20/11/2025,473,Delivered
+687,UK,Berlin,Convertible,Samsung,27,17/11/2025,21/11/2025,303,Shipped
+688,Canada,Mumbai,Business,Microsoft,39,18/11/2025,22/11/2025,237,Cancelled
+689,USA,Tokyo,Ultrabook,Samsung,9,19/11/2025,23/11/2025,378,Cancelled
+690,Japan,Sao Paulo,Gaming,Microsoft,21,20/11/2025,24/11/2025,81,Cancelled
+691,France,Berlin,Ultrabook,Acer,76,21/11/2025,25/11/2025,320,Pending
+692,China,Paris,Gaming,HP,29,22/11/2025,26/11/2025,446,Shipped
+693,USA,Beijing,Convertible,Microsoft,33,23/11/2025,27/11/2025,54,Cancelled
+694,Australia,Sydney,Convertible,Microsoft,62,24/11/2025,28/11/2025,379,Pending
+695,France,Sao Paulo,Netbook,Lenovo,15,25/11/2025,29/11/2025,357,Pending
+696,France,Beijing,Ultrabook,Apple,2,26/11/2025,30/11/2025,382,Pending
+697,Canada,Sydney,Gaming,Acer,52,27/11/2025,1/12/2025,218,Shipped
+698,UK,New York,Convertible,Samsung,44,28/11/2025,2/12/2025,230,Pending
+699,Australia,Mumbai,Business,Acer,54,29/11/2025,3/12/2025,415,Shipped
+700,Japan,Berlin,Convertible,Asus,18,30/11/2025,4/12/2025,227,Delivered
+701,Canada,London,Business,Samsung,3,1/12/2025,5/12/2025,192,Pending
+702,Japan,Sydney,Gaming,Acer,7,2/12/2025,6/12/2025,411,Cancelled
+703,Canada,London,Convertible,HP,43,3/12/2025,7/12/2025,297,Pending
+704,Canada,Mumbai,Convertible,Samsung,82,4/12/2025,8/12/2025,176,Delivered
+705,Canada,Tokyo,Gaming,Samsung,38,5/12/2025,9/12/2025,312,Delivered
+706,UK,Paris,Convertible,Acer,37,6/12/2025,10/12/2025,89,Pending
+707,Canada,Berlin,Business,Samsung,58,7/12/2025,11/12/2025,461,Delivered
+708,Germany,Mumbai,Convertible,Lenovo,33,8/12/2025,12/12/2025,465,Shipped
+709,China,Mumbai,Ultrabook,Apple,59,9/12/2025,13/12/2025,404,Shipped
+710,Japan,New York,Netbook,Samsung,95,10/12/2025,14/12/2025,304,Pending
+711,USA,Beijing,Business,Apple,11,11/12/2025,15/12/2025,192,Shipped
+712,India,Paris,Ultrabook,Acer,68,12/12/2025,16/12/2025,289,Shipped
+713,Australia,Berlin,Gaming,Microsoft,82,13/12/2025,17/12/2025,277,Cancelled
+714,Brazil,Tokyo,Business,Dell,68,14/12/2025,18/12/2025,390,Pending
+715,UK,Tokyo,Netbook,Dell,98,15/12/2025,19/12/2025,247,Delivered
+716,USA,Toronto,Netbook,Microsoft,93,16/12/2025,20/12/2025,114,Pending
+717,France,Mumbai,Gaming,Microsoft,88,17/12/2025,21/12/2025,437,Shipped
+718,Germany,Sydney,Gaming,Microsoft,22,18/12/2025,22/12/2025,60,Cancelled
+719,Brazil,New York,Business,HP,66,19/12/2025,23/12/2025,157,Pending
+720,India,Paris,Convertible,Dell,44,20/12/2025,24/12/2025,75,Pending
+721,USA,Tokyo,Gaming,Microsoft,6,21/12/2025,25/12/2025,494,Shipped
+722,Brazil,Berlin,Convertible,HP,42,22/12/2025,26/12/2025,470,Shipped
+723,USA,Toronto,Ultrabook,Asus,25,23/12/2025,27/12/2025,200,Pending
+724,Germany,Berlin,Netbook,Samsung,57,24/12/2025,28/12/2025,270,Shipped
+725,India,New York,Convertible,HP,85,25/12/2025,29/12/2025,390,Shipped
+726,France,Sydney,Netbook,Dell,55,26/12/2025,30/12/2025,286,Shipped
+727,Canada,Toronto,Convertible,Acer,16,27/12/2025,31/12/2025,286,Shipped
+728,Japan,Toronto,Ultrabook,Asus,95,28/12/2025,1/1/2026,268,Shipped
+729,France,Beijing,Gaming,Dell,14,29/12/2025,2/1/2026,473,Cancelled
+730,Canada,Paris,Ultrabook,Samsung,39,30/12/2025,3/1/2026,200,Shipped
+731,UK,Toronto,Gaming,HP,28,31/12/2025,4/1/2026,172,Delivered
+732,China,Beijing,Gaming,Lenovo,96,1/1/2026,5/1/2026,193,Pending
+733,Australia,Beijing,Netbook,Apple,92,2/1/2026,6/1/2026,238,Cancelled
+734,Australia,New York,Ultrabook,Samsung,51,3/1/2026,7/1/2026,304,Cancelled
+735,Japan,London,Convertible,Dell,49,4/1/2026,8/1/2026,117,Shipped
+736,India,Berlin,Ultrabook,Microsoft,9,5/1/2026,9/1/2026,153,Pending
+737,Germany,Sydney,Netbook,HP,58,6/1/2026,10/1/2026,385,Delivered
+738,India,Sao Paulo,Gaming,Microsoft,45,7/1/2026,11/1/2026,208,Shipped
+739,Germany,Berlin,Netbook,Microsoft,22,8/1/2026,12/1/2026,358,Pending
+740,India,Toronto,Business,Microsoft,32,9/1/2026,13/1/2026,411,Shipped
+741,China,Sydney,Business,Microsoft,69,10/1/2026,14/1/2026,458,Shipped
+742,UK,Tokyo,Convertible,Microsoft,87,11/1/2026,15/1/2026,349,Shipped
+743,UK,London,Netbook,Asus,69,12/1/2026,16/1/2026,445,Shipped
+744,Canada,Tokyo,Convertible,Dell,42,13/1/2026,17/1/2026,139,Shipped
+745,Brazil,Tokyo,Convertible,Samsung,53,14/1/2026,18/1/2026,406,Shipped
+746,UK,Paris,Business,Dell,96,15/1/2026,19/1/2026,305,Shipped
+747,UK,Berlin,Convertible,Samsung,59,16/1/2026,20/1/2026,402,Delivered
+748,France,Sao Paulo,Business,Apple,74,17/1/2026,21/1/2026,269,Cancelled
+749,France,New York,Gaming,HP,39,18/1/2026,22/1/2026,58,Delivered
+750,Canada,Sao Paulo,Netbook,Lenovo,15,19/1/2026,23/1/2026,61,Shipped
+751,Brazil,Tokyo,Convertible,Asus,71,20/1/2026,24/1/2026,374,Shipped
+752,Japan,Toronto,Business,HP,29,21/1/2026,25/1/2026,487,Delivered
+753,France,London,Ultrabook,Asus,3,22/1/2026,26/1/2026,293,Delivered
+754,Japan,Mumbai,Convertible,Samsung,83,23/1/2026,27/1/2026,231,Cancelled
+755,USA,Sao Paulo,Gaming,Dell,10,24/1/2026,28/1/2026,333,Delivered
+756,France,Tokyo,Gaming,Microsoft,92,25/1/2026,29/1/2026,361,Cancelled
+757,China,London,Ultrabook,Apple,29,26/1/2026,30/1/2026,148,Shipped
+758,Brazil,Sydney,Business,Apple,79,27/1/2026,31/1/2026,246,Pending
+759,Canada,Berlin,Convertible,Acer,35,28/1/2026,1/2/2026,415,Pending
+760,USA,Beijing,Business,Lenovo,6,29/1/2026,2/2/2026,275,Pending
+761,Brazil,Paris,Gaming,Apple,12,30/1/2026,3/2/2026,382,Pending
+762,China,London,Business,Microsoft,38,31/1/2026,4/2/2026,152,Shipped
+763,Brazil,Toronto,Gaming,Dell,77,1/2/2026,5/2/2026,155,Pending
+764,China,Toronto,Business,Lenovo,93,2/2/2026,6/2/2026,414,Delivered
+765,China,London,Ultrabook,Samsung,19,3/2/2026,7/2/2026,417,Delivered
+766,Japan,Toronto,Netbook,HP,67,4/2/2026,8/2/2026,107,Pending
+767,India,Berlin,Ultrabook,Samsung,8,5/2/2026,9/2/2026,127,Delivered
+768,USA,Toronto,Ultrabook,Microsoft,8,6/2/2026,10/2/2026,124,Cancelled
+769,Brazil,Sao Paulo,Netbook,Microsoft,84,7/2/2026,11/2/2026,91,Shipped
+770,Germany,Beijing,Netbook,Apple,47,8/2/2026,12/2/2026,471,Pending
+771,USA,Toronto,Convertible,Lenovo,4,9/2/2026,13/2/2026,373,Pending
+772,India,Beijing,Convertible,Dell,51,10/2/2026,14/2/2026,230,Shipped
+773,USA,Tokyo,Ultrabook,Samsung,85,11/2/2026,15/2/2026,82,Delivered
+774,UK,New York,Ultrabook,Acer,67,12/2/2026,16/2/2026,120,Shipped
+775,Germany,Berlin,Gaming,Samsung,45,13/2/2026,17/2/2026,105,Shipped
+776,India,New York,Gaming,Asus,8,14/2/2026,18/2/2026,154,Delivered
+777,Japan,Tokyo,Convertible,Asus,87,15/2/2026,19/2/2026,249,Shipped
+778,Brazil,Berlin,Convertible,Dell,16,16/2/2026,20/2/2026,150,Delivered
+779,Australia,London,Gaming,Dell,77,17/2/2026,21/2/2026,305,Delivered
+780,India,London,Gaming,Asus,67,18/2/2026,22/2/2026,356,Shipped
+781,Canada,Beijing,Business,Acer,9,19/2/2026,23/2/2026,123,Cancelled
+782,Brazil,Tokyo,Business,Lenovo,60,20/2/2026,24/2/2026,220,Delivered
+783,India,Beijing,Gaming,Asus,78,21/2/2026,25/2/2026,426,Shipped
+784,UK,Paris,Business,Dell,77,22/2/2026,26/2/2026,192,Delivered
+785,Australia,Toronto,Netbook,Apple,71,23/2/2026,27/2/2026,215,Cancelled
+786,UK,Mumbai,Convertible,HP,15,24/2/2026,28/2/2026,448,Cancelled
+787,Australia,Paris,Convertible,Acer,71,25/2/2026,1/3/2026,310,Pending
+788,Canada,Toronto,Gaming,Microsoft,98,26/2/2026,2/3/2026,270,Delivered
+789,Brazil,Berlin,Ultrabook,Acer,41,27/2/2026,3/3/2026,132,Delivered
+790,Japan,Beijing,Gaming,Apple,22,28/2/2026,4/3/2026,231,Shipped
+791,UK,Berlin,Business,Apple,24,1/3/2026,5/3/2026,356,Delivered
+792,UK,Berlin,Ultrabook,Microsoft,44,2/3/2026,6/3/2026,59,Pending
+793,China,Toronto,Business,Samsung,1,3/3/2026,7/3/2026,445,Cancelled
+794,Australia,Tokyo,Netbook,Dell,10,4/3/2026,8/3/2026,53,Cancelled
+795,France,Toronto,Business,Asus,80,5/3/2026,9/3/2026,400,Pending
+796,Brazil,Sydney,Netbook,Samsung,72,6/3/2026,10/3/2026,451,Delivered
+797,Australia,London,Netbook,Lenovo,56,7/3/2026,11/3/2026,385,Delivered
+798,China,London,Business,Acer,89,8/3/2026,12/3/2026,341,Pending
+799,USA,Paris,Business,Microsoft,50,9/3/2026,13/3/2026,330,Shipped
+800,Australia,London,Netbook,Acer,12,10/3/2026,14/3/2026,264,Cancelled
+801,Japan,Toronto,Ultrabook,Samsung,89,11/3/2026,15/3/2026,147,Pending
+802,Brazil,Sao Paulo,Netbook,Apple,81,12/3/2026,16/3/2026,469,Pending
+803,China,Beijing,Convertible,Asus,60,13/3/2026,17/3/2026,150,Delivered
+804,USA,Toronto,Netbook,Acer,26,14/3/2026,18/3/2026,58,Cancelled
+805,Germany,Toronto,Ultrabook,Lenovo,78,15/3/2026,19/3/2026,110,Delivered
+806,China,Mumbai,Convertible,Apple,41,16/3/2026,20/3/2026,358,Pending
+807,Germany,Beijing,Gaming,Lenovo,36,17/3/2026,21/3/2026,195,Shipped
+808,Brazil,Sydney,Gaming,Asus,23,18/3/2026,22/3/2026,476,Cancelled
+809,UK,London,Ultrabook,Acer,43,19/3/2026,23/3/2026,468,Pending
+810,China,Beijing,Netbook,HP,6,20/3/2026,24/3/2026,112,Pending
+811,Canada,London,Business,Samsung,69,21/3/2026,25/3/2026,170,Shipped
+812,Germany,Paris,Ultrabook,Acer,43,22/3/2026,26/3/2026,275,Pending
+813,Japan,Beijing,Convertible,Samsung,25,23/3/2026,27/3/2026,154,Pending
+814,Canada,London,Convertible,Asus,18,24/3/2026,28/3/2026,309,Cancelled
+815,India,Sydney,Gaming,Acer,62,25/3/2026,29/3/2026,398,Cancelled
+816,India,New York,Convertible,Samsung,13,26/3/2026,30/3/2026,474,Cancelled
+817,USA,Berlin,Ultrabook,Microsoft,43,27/3/2026,31/3/2026,304,Delivered
+818,UK,Berlin,Convertible,Samsung,78,28/3/2026,1/4/2026,478,Shipped
+819,Brazil,Sydney,Ultrabook,Acer,28,29/3/2026,2/4/2026,483,Cancelled
+820,China,Mumbai,Business,Dell,18,30/3/2026,3/4/2026,256,Delivered
+821,France,New York,Gaming,Acer,59,31/3/2026,4/4/2026,77,Delivered
+822,Japan,Paris,Convertible,Acer,60,1/4/2026,5/4/2026,219,Shipped
+823,Germany,Sydney,Ultrabook,Samsung,63,2/4/2026,6/4/2026,385,Shipped
+824,Brazil,Berlin,Netbook,Lenovo,57,3/4/2026,7/4/2026,125,Pending
+825,Canada,Berlin,Gaming,HP,92,4/4/2026,8/4/2026,165,Delivered
+826,India,Berlin,Business,Lenovo,51,5/4/2026,9/4/2026,118,Cancelled
+827,Japan,Tokyo,Ultrabook,Samsung,56,6/4/2026,10/4/2026,403,Shipped
+828,France,Sydney,Business,Lenovo,27,7/4/2026,11/4/2026,283,Delivered
+829,China,Toronto,Business,Apple,32,8/4/2026,12/4/2026,50,Cancelled
+830,USA,Paris,Convertible,Dell,9,9/4/2026,13/4/2026,216,Delivered
+831,France,Berlin,Convertible,Lenovo,96,10/4/2026,14/4/2026,401,Shipped
+832,Japan,London,Ultrabook,Microsoft,84,11/4/2026,15/4/2026,267,Pending
+833,France,Sydney,Netbook,Asus,92,12/4/2026,16/4/2026,322,Delivered
+834,Japan,Tokyo,Ultrabook,Microsoft,97,13/4/2026,17/4/2026,417,Cancelled
+835,Japan,Sydney,Netbook,Asus,68,14/4/2026,18/4/2026,300,Shipped
+836,Australia,Paris,Business,Acer,46,15/4/2026,19/4/2026,396,Pending
+837,Germany,Tokyo,Gaming,Apple,98,16/4/2026,20/4/2026,393,Cancelled
+838,India,Paris,Ultrabook,Dell,67,17/4/2026,21/4/2026,468,Cancelled
+839,Australia,Sydney,Ultrabook,Microsoft,26,18/4/2026,22/4/2026,223,Cancelled
+840,China,Toronto,Netbook,Dell,8,19/4/2026,23/4/2026,219,Delivered
+841,Australia,Paris,Business,Microsoft,6,20/4/2026,24/4/2026,295,Shipped
+842,UK,Tokyo,Business,Acer,80,21/4/2026,25/4/2026,472,Cancelled
+843,UK,Tokyo,Netbook,Asus,24,22/4/2026,26/4/2026,139,Delivered
+844,India,Paris,Business,HP,48,23/4/2026,27/4/2026,98,Shipped
+845,France,Sao Paulo,Convertible,Apple,94,24/4/2026,28/4/2026,495,Shipped
+846,Germany,Sydney,Gaming,Microsoft,45,25/4/2026,29/4/2026,343,Delivered
+847,India,Sao Paulo,Ultrabook,Microsoft,13,26/4/2026,30/4/2026,456,Delivered
+848,Japan,Mumbai,Gaming,Acer,69,27/4/2026,1/5/2026,199,Cancelled
+849,Canada,Sydney,Ultrabook,Apple,25,28/4/2026,2/5/2026,181,Shipped
+850,Germany,Paris,Convertible,Asus,20,29/4/2026,3/5/2026,482,Pending
+851,Germany,New York,Business,Asus,82,30/4/2026,4/5/2026,108,Delivered
+852,Japan,Paris,Netbook,Microsoft,82,1/5/2026,5/5/2026,373,Shipped
+853,Japan,Sao Paulo,Convertible,HP,66,2/5/2026,6/5/2026,248,Shipped
+854,USA,Toronto,Gaming,HP,74,3/5/2026,7/5/2026,264,Cancelled
+855,India,Paris,Netbook,Dell,45,4/5/2026,8/5/2026,435,Pending
+856,Japan,Paris,Business,Apple,47,5/5/2026,9/5/2026,98,Cancelled
+857,UK,Toronto,Convertible,Apple,63,6/5/2026,10/5/2026,281,Pending
+858,China,Paris,Netbook,Asus,76,7/5/2026,11/5/2026,296,Pending
+859,Canada,Berlin,Convertible,Dell,77,8/5/2026,12/5/2026,431,Delivered
+860,India,New York,Convertible,Acer,55,9/5/2026,13/5/2026,288,Shipped
+861,Brazil,London,Business,Apple,75,10/5/2026,14/5/2026,464,Shipped
+862,UK,New York,Ultrabook,Dell,19,11/5/2026,15/5/2026,416,Shipped
+863,France,Paris,Netbook,Dell,35,12/5/2026,16/5/2026,217,Pending
+864,Japan,Berlin,Business,Microsoft,53,13/5/2026,17/5/2026,97,Shipped
+865,Brazil,Sydney,Convertible,Asus,26,14/5/2026,18/5/2026,100,Delivered
+866,Japan,Paris,Business,Dell,14,15/5/2026,19/5/2026,348,Pending
+867,Germany,Sao Paulo,Ultrabook,Samsung,45,16/5/2026,20/5/2026,147,Pending
+868,UK,Berlin,Netbook,HP,44,17/5/2026,21/5/2026,488,Pending
+869,Germany,Toronto,Ultrabook,Samsung,88,18/5/2026,22/5/2026,265,Pending
+870,USA,Berlin,Gaming,HP,65,19/5/2026,23/5/2026,226,Delivered
+871,Germany,Toronto,Netbook,Lenovo,51,20/5/2026,24/5/2026,429,Shipped
+872,USA,Mumbai,Ultrabook,Asus,43,21/5/2026,25/5/2026,129,Delivered
+873,USA,London,Convertible,Microsoft,86,22/5/2026,26/5/2026,234,Shipped
+874,Brazil,Beijing,Netbook,Acer,23,23/5/2026,27/5/2026,416,Delivered
+875,Japan,Berlin,Netbook,Samsung,56,24/5/2026,28/5/2026,448,Cancelled
+876,France,Tokyo,Business,Samsung,19,25/5/2026,29/5/2026,76,Cancelled
+877,Germany,Sao Paulo,Convertible,Lenovo,82,26/5/2026,30/5/2026,497,Cancelled
+878,UK,Paris,Gaming,HP,76,27/5/2026,31/5/2026,463,Cancelled
+879,USA,Sao Paulo,Ultrabook,Microsoft,55,28/5/2026,1/6/2026,469,Pending
+880,Japan,New York,Business,Lenovo,92,29/5/2026,2/6/2026,244,Pending
+881,Canada,Beijing,Ultrabook,Asus,92,30/5/2026,3/6/2026,263,Delivered
+882,India,New York,Gaming,Microsoft,60,31/5/2026,4/6/2026,418,Delivered
+883,Brazil,Mumbai,Gaming,Asus,59,1/6/2026,5/6/2026,391,Cancelled
+884,France,Beijing,Netbook,Dell,33,2/6/2026,6/6/2026,163,Shipped
+885,Australia,Beijing,Gaming,Apple,19,3/6/2026,7/6/2026,291,Cancelled
+886,Brazil,New York,Ultrabook,Dell,28,4/6/2026,8/6/2026,173,Delivered
+887,Canada,Toronto,Convertible,Asus,52,5/6/2026,9/6/2026,354,Cancelled
+888,India,New York,Convertible,Samsung,49,6/6/2026,10/6/2026,125,Delivered
+889,Canada,Sao Paulo,Netbook,Microsoft,37,7/6/2026,11/6/2026,360,Cancelled
+890,Germany,Toronto,Ultrabook,HP,26,8/6/2026,12/6/2026,361,Shipped
+891,USA,Sao Paulo,Ultrabook,Acer,99,9/6/2026,13/6/2026,245,Cancelled
+892,France,Mumbai,Gaming,HP,98,10/6/2026,14/6/2026,400,Shipped
+893,China,Paris,Ultrabook,Microsoft,99,11/6/2026,15/6/2026,93,Shipped
+894,USA,Sydney,Business,Dell,40,12/6/2026,16/6/2026,464,Delivered
+895,China,Toronto,Gaming,Acer,80,13/6/2026,17/6/2026,235,Shipped
+896,India,Mumbai,Business,Microsoft,38,14/6/2026,18/6/2026,392,Pending
+897,Japan,Tokyo,Netbook,Asus,77,15/6/2026,19/6/2026,295,Pending
+898,Australia,Mumbai,Convertible,Samsung,87,16/6/2026,20/6/2026,486,Pending
+899,UK,New York,Netbook,HP,54,17/6/2026,21/6/2026,133,Delivered
+900,USA,New York,Convertible,Asus,22,18/6/2026,22/6/2026,256,Pending
+901,France,Sydney,Netbook,Acer,16,19/6/2026,23/6/2026,200,Delivered
+902,Canada,Mumbai,Ultrabook,Acer,28,20/6/2026,24/6/2026,205,Delivered
+903,France,London,Business,HP,35,21/6/2026,25/6/2026,65,Pending
+904,India,Paris,Convertible,Asus,60,22/6/2026,26/6/2026,214,Shipped
+905,China,New York,Gaming,Lenovo,45,23/6/2026,27/6/2026,454,Cancelled
+906,Canada,Sydney,Business,Asus,46,24/6/2026,28/6/2026,194,Delivered
+907,UK,Paris,Gaming,Acer,72,25/6/2026,29/6/2026,86,Pending
+908,UK,Mumbai,Business,Asus,55,26/6/2026,30/6/2026,382,Delivered
+909,USA,Mumbai,Business,Samsung,86,27/6/2026,1/7/2026,452,Shipped
+910,India,Beijing,Netbook,Microsoft,85,28/6/2026,2/7/2026,463,Shipped
+911,Japan,Sydney,Convertible,Dell,26,29/6/2026,3/7/2026,94,Pending
+912,India,New York,Convertible,Samsung,85,30/6/2026,4/7/2026,451,Delivered
+913,China,London,Business,Lenovo,25,1/7/2026,5/7/2026,255,Cancelled
+914,France,Mumbai,Ultrabook,Apple,65,2/7/2026,6/7/2026,111,Cancelled
+915,UK,London,Ultrabook,Microsoft,6,3/7/2026,7/7/2026,469,Delivered
+916,France,Mumbai,Gaming,Dell,23,4/7/2026,8/7/2026,405,Delivered
+917,France,New York,Gaming,Apple,64,5/7/2026,9/7/2026,357,Delivered
+918,France,Paris,Netbook,HP,87,6/7/2026,10/7/2026,68,Pending
+919,UK,Berlin,Business,Apple,43,7/7/2026,11/7/2026,414,Shipped
+920,Brazil,Paris,Gaming,Microsoft,23,8/7/2026,12/7/2026,349,Cancelled
+921,Germany,Mumbai,Gaming,Asus,96,9/7/2026,13/7/2026,56,Pending
+922,China,Sao Paulo,Business,Microsoft,30,10/7/2026,14/7/2026,298,Delivered
+923,Brazil,Berlin,Netbook,Samsung,77,11/7/2026,15/7/2026,477,Delivered
+924,China,Berlin,Gaming,Apple,18,12/7/2026,16/7/2026,166,Shipped
+925,Canada,London,Netbook,Acer,87,13/7/2026,17/7/2026,117,Delivered
+926,India,Sydney,Convertible,Dell,79,14/7/2026,18/7/2026,83,Pending
+927,India,London,Netbook,Dell,97,15/7/2026,19/7/2026,243,Pending
+928,Australia,London,Ultrabook,Apple,21,16/7/2026,20/7/2026,374,Shipped
+929,India,Sao Paulo,Ultrabook,Dell,57,17/7/2026,21/7/2026,104,Pending
+930,UK,Paris,Netbook,Acer,23,18/7/2026,22/7/2026,315,Cancelled
+931,Japan,Paris,Ultrabook,Microsoft,91,19/7/2026,23/7/2026,91,Pending
+932,USA,Tokyo,Convertible,Dell,45,20/7/2026,24/7/2026,346,Pending
+933,Australia,Mumbai,Business,Apple,44,21/7/2026,25/7/2026,280,Pending
+934,USA,Sao Paulo,Ultrabook,Lenovo,82,22/7/2026,26/7/2026,427,Cancelled
+935,China,Tokyo,Ultrabook,Lenovo,88,23/7/2026,27/7/2026,443,Delivered
+936,USA,New York,Netbook,HP,47,24/7/2026,28/7/2026,59,Pending
+937,USA,Mumbai,Convertible,Samsung,40,25/7/2026,29/7/2026,407,Shipped
+938,Australia,Mumbai,Business,Dell,51,26/7/2026,30/7/2026,493,Cancelled
+939,Canada,Beijing,Netbook,Samsung,42,27/7/2026,31/7/2026,177,Shipped
+940,France,Beijing,Netbook,Microsoft,7,28/7/2026,1/8/2026,228,Pending
+941,India,Toronto,Convertible,Apple,50,29/7/2026,2/8/2026,454,Shipped
+942,India,Toronto,Business,Dell,48,30/7/2026,3/8/2026,441,Pending
+943,UK,London,Convertible,Asus,84,31/7/2026,4/8/2026,242,Cancelled
+944,Australia,New York,Business,Acer,91,1/8/2026,5/8/2026,141,Shipped
+945,UK,Berlin,Convertible,Dell,6,2/8/2026,6/8/2026,418,Shipped
+946,Japan,Berlin,Netbook,Dell,91,3/8/2026,7/8/2026,280,Pending
+947,Japan,Beijing,Netbook,Samsung,9,4/8/2026,8/8/2026,127,Pending
+948,UK,Beijing,Gaming,Samsung,57,5/8/2026,9/8/2026,134,Delivered
+949,Australia,Beijing,Ultrabook,Lenovo,31,6/8/2026,10/8/2026,79,Pending
+950,UK,Sao Paulo,Convertible,Acer,21,7/8/2026,11/8/2026,262,Pending
+951,India,Sydney,Gaming,Apple,90,8/8/2026,12/8/2026,98,Delivered
+952,Brazil,Toronto,Ultrabook,Dell,40,9/8/2026,13/8/2026,314,Pending
+953,Germany,Sao Paulo,Convertible,Lenovo,45,10/8/2026,14/8/2026,194,Pending
+954,USA,Paris,Business,Samsung,77,11/8/2026,15/8/2026,118,Delivered
+955,Germany,Berlin,Ultrabook,HP,49,12/8/2026,16/8/2026,107,Cancelled
+956,Australia,Mumbai,Netbook,Acer,87,13/8/2026,17/8/2026,234,Cancelled
+957,Germany,Toronto,Gaming,Lenovo,20,14/8/2026,18/8/2026,111,Pending
+958,Japan,Tokyo,Ultrabook,Lenovo,92,15/8/2026,19/8/2026,357,Pending
+959,China,Paris,Ultrabook,Microsoft,17,16/8/2026,20/8/2026,494,Delivered
+960,USA,Toronto,Netbook,Lenovo,28,17/8/2026,21/8/2026,345,Delivered
+961,France,Sao Paulo,Convertible,Microsoft,41,18/8/2026,22/8/2026,215,Cancelled
+962,Australia,New York,Business,Dell,66,19/8/2026,23/8/2026,220,Shipped
+963,USA,Mumbai,Netbook,Dell,25,20/8/2026,24/8/2026,112,Pending
+964,Germany,Toronto,Business,Samsung,58,21/8/2026,25/8/2026,196,Shipped
+965,Japan,Sydney,Convertible,HP,41,22/8/2026,26/8/2026,355,Shipped
+966,Canada,Beijing,Ultrabook,Asus,6,23/8/2026,27/8/2026,210,Delivered
+967,Brazil,Beijing,Business,Asus,75,24/8/2026,28/8/2026,190,Pending
+968,France,Mumbai,Gaming,Asus,38,25/8/2026,29/8/2026,383,Pending
+969,Brazil,Sao Paulo,Gaming,Samsung,6,26/8/2026,30/8/2026,146,Delivered
+970,USA,Beijing,Netbook,Microsoft,45,27/8/2026,31/8/2026,495,Shipped
+971,Japan,Toronto,Convertible,Samsung,75,28/8/2026,1/9/2026,270,Delivered
+972,Japan,Tokyo,Netbook,Acer,14,29/8/2026,2/9/2026,92,Cancelled
+973,Germany,Berlin,Netbook,Acer,66,30/8/2026,3/9/2026,482,Pending
+974,India,Berlin,Netbook,HP,40,31/8/2026,4/9/2026,341,Cancelled
+975,Germany,Paris,Gaming,Acer,3,1/9/2026,5/9/2026,427,Delivered
+976,India,London,Gaming,Asus,99,2/9/2026,6/9/2026,157,Pending
+977,India,New York,Netbook,Asus,97,3/9/2026,7/9/2026,315,Cancelled
+978,France,Mumbai,Gaming,Samsung,24,4/9/2026,8/9/2026,144,Cancelled
+979,Germany,Paris,Convertible,Lenovo,19,5/9/2026,9/9/2026,311,Shipped
+980,Canada,London,Netbook,Acer,18,6/9/2026,10/9/2026,362,Pending
+981,UK,Sao Paulo,Gaming,Samsung,64,7/9/2026,11/9/2026,434,Cancelled
+982,UK,Sydney,Business,Dell,88,8/9/2026,12/9/2026,120,Cancelled
+983,Germany,Sydney,Netbook,Dell,35,9/9/2026,13/9/2026,491,Shipped
+984,Germany,New York,Netbook,Lenovo,62,10/9/2026,14/9/2026,268,Cancelled
+985,Brazil,Beijing,Convertible,Lenovo,1,11/9/2026,15/9/2026,70,Cancelled
+986,France,Toronto,Ultrabook,Lenovo,25,12/9/2026,16/9/2026,141,Cancelled
+987,Germany,Paris,Ultrabook,Samsung,45,13/9/2026,17/9/2026,176,Shipped
+988,Brazil,Paris,Convertible,Dell,49,14/9/2026,18/9/2026,129,Cancelled
+989,India,Mumbai,Convertible,Asus,98,15/9/2026,19/9/2026,361,Cancelled
+990,Japan,Mumbai,Convertible,Lenovo,89,16/9/2026,20/9/2026,287,Pending
+991,Japan,Sydney,Ultrabook,HP,16,17/9/2026,21/9/2026,421,Pending
+992,India,Sydney,Convertible,Microsoft,98,18/9/2026,22/9/2026,453,Shipped
+993,Australia,Tokyo,Gaming,Samsung,93,19/9/2026,23/9/2026,231,Delivered
+994,Brazil,Tokyo,Netbook,Lenovo,19,20/9/2026,24/9/2026,74,Pending
+995,Brazil,Beijing,Netbook,Microsoft,23,21/9/2026,25/9/2026,205,Shipped
+996,India,Tokyo,Business,Apple,83,22/9/2026,26/9/2026,54,Cancelled
+997,Canada,Toronto,Business,Lenovo,25,23/9/2026,27/9/2026,169,Cancelled
+998,China,Toronto,Netbook,Dell,16,24/9/2026,28/9/2026,326,Shipped
+999,USA,Paris,Gaming,Acer,54,25/9/2026,29/9/2026,67,Cancelled
+1000,India,Berlin,Ultrabook,Lenovo,73,26/9/2026,30/9/2026,480,Cancelled
+1001,Germany,Toronto,Ultrabook,Samsung,1,27/9/2026,1/10/2026,247,Delivered
+1002,Germany,London,Gaming,Acer,42,28/9/2026,2/10/2026,106,Cancelled
+1003,France,Sydney,Ultrabook,Apple,19,29/9/2026,3/10/2026,142,Pending
+1004,India,Mumbai,Convertible,HP,97,30/9/2026,4/10/2026,68,Cancelled
+1005,France,Tokyo,Netbook,Acer,34,1/10/2026,5/10/2026,433,Shipped
+1006,India,Paris,Netbook,Microsoft,80,2/10/2026,6/10/2026,402,Delivered
+1007,Brazil,New York,Gaming,Asus,55,3/10/2026,7/10/2026,242,Cancelled
+1008,USA,Mumbai,Ultrabook,Lenovo,18,4/10/2026,8/10/2026,286,Shipped
+1009,Brazil,London,Business,Apple,34,5/10/2026,9/10/2026,436,Pending
+1010,China,Tokyo,Business,Apple,89,6/10/2026,10/10/2026,475,Cancelled
+1011,Japan,London,Ultrabook,Acer,45,7/10/2026,11/10/2026,326,Delivered
+1012,UK,Sydney,Business,HP,6,8/10/2026,12/10/2026,276,Cancelled
+1013,India,Sydney,Gaming,Dell,21,9/10/2026,13/10/2026,282,Shipped
+1014,China,Beijing,Gaming,Lenovo,70,10/10/2026,14/10/2026,89,Delivered
+1015,Japan,Paris,Ultrabook,Apple,96,11/10/2026,15/10/2026,372,Cancelled
+1016,Australia,Mumbai,Business,HP,48,12/10/2026,16/10/2026,202,Pending
+1017,USA,Sao Paulo,Gaming,Asus,39,13/10/2026,17/10/2026,176,Delivered
+1018,France,Sao Paulo,Gaming,Apple,31,14/10/2026,18/10/2026,286,Pending
+1019,France,Mumbai,Convertible,HP,10,15/10/2026,19/10/2026,104,Shipped
+1020,Brazil,New York,Convertible,Samsung,30,16/10/2026,20/10/2026,485,Cancelled
+1021,Germany,Paris,Gaming,Dell,18,17/10/2026,21/10/2026,221,Pending
+1022,Japan,London,Ultrabook,Dell,60,18/10/2026,22/10/2026,158,Shipped
+1023,Australia,New York,Netbook,Apple,88,19/10/2026,23/10/2026,403,Cancelled
+1024,China,Berlin,Netbook,Microsoft,73,20/10/2026,24/10/2026,233,Shipped
+1025,USA,Mumbai,Gaming,Apple,95,21/10/2026,25/10/2026,488,Pending
+1026,Japan,London,Gaming,Acer,15,22/10/2026,26/10/2026,417,Shipped
+1027,Australia,Sao Paulo,Gaming,Lenovo,4,23/10/2026,27/10/2026,247,Delivered
+1028,UK,Toronto,Ultrabook,HP,63,24/10/2026,28/10/2026,420,Cancelled
+1029,India,Beijing,Convertible,Apple,40,25/10/2026,29/10/2026,422,Shipped
+1030,France,Sao Paulo,Gaming,Lenovo,9,26/10/2026,30/10/2026,136,Pending
+1031,China,Paris,Gaming,Acer,9,27/10/2026,31/10/2026,250,Cancelled
+1032,France,Sydney,Business,Samsung,26,28/10/2026,1/11/2026,386,Delivered
+1033,China,Toronto,Ultrabook,Samsung,4,29/10/2026,2/11/2026,371,Cancelled
+1034,Brazil,Beijing,Gaming,Lenovo,81,30/10/2026,3/11/2026,324,Delivered
+1035,Germany,Beijing,Business,Apple,16,31/10/2026,4/11/2026,260,Cancelled
+1036,China,Berlin,Netbook,Dell,15,1/11/2026,5/11/2026,440,Shipped
+1037,France,Berlin,Gaming,HP,99,2/11/2026,6/11/2026,167,Shipped
+1038,Brazil,Tokyo,Gaming,HP,52,3/11/2026,7/11/2026,240,Pending
+1039,China,Sao Paulo,Business,Samsung,69,4/11/2026,8/11/2026,91,Delivered
+1040,UK,Sao Paulo,Ultrabook,Samsung,5,5/11/2026,9/11/2026,91,Pending
+1041,Germany,Sao Paulo,Gaming,Dell,20,6/11/2026,10/11/2026,364,Shipped
+1042,China,Tokyo,Netbook,Microsoft,79,7/11/2026,11/11/2026,325,Delivered
+1043,Brazil,New York,Gaming,Apple,18,8/11/2026,12/11/2026,378,Pending
+1044,Japan,Beijing,Netbook,Samsung,2,9/11/2026,13/11/2026,66,Pending
+1045,Canada,Toronto,Convertible,Samsung,93,10/11/2026,14/11/2026,332,Pending
+1046,Australia,Paris,Convertible,Samsung,13,11/11/2026,15/11/2026,480,Pending
+1047,Canada,Beijing,Netbook,HP,4,12/11/2026,16/11/2026,307,Pending
+1048,Canada,Berlin,Ultrabook,Apple,42,13/11/2026,17/11/2026,112,Delivered
+1049,USA,London,Gaming,Acer,74,14/11/2026,18/11/2026,111,Pending
+1050,UK,Sydney,Gaming,Apple,61,15/11/2026,19/11/2026,149,Delivered
+1051,Japan,Tokyo,Convertible,Lenovo,95,16/11/2026,20/11/2026,68,Pending
+1052,India,Mumbai,Netbook,Dell,8,17/11/2026,21/11/2026,66,Shipped
+1053,China,London,Gaming,Microsoft,67,18/11/2026,22/11/2026,374,Shipped
+1054,Australia,Paris,Gaming,Samsung,63,19/11/2026,23/11/2026,472,Pending
+1055,Germany,Sao Paulo,Ultrabook,Samsung,9,20/11/2026,24/11/2026,422,Cancelled
+1056,Japan,Berlin,Business,Apple,94,21/11/2026,25/11/2026,295,Shipped
+1057,France,Berlin,Convertible,Microsoft,11,22/11/2026,26/11/2026,300,Delivered
+1058,India,Berlin,Convertible,Samsung,99,23/11/2026,27/11/2026,130,Pending
+1059,USA,Sao Paulo,Business,Microsoft,42,24/11/2026,28/11/2026,88,Delivered
+1060,USA,Mumbai,Gaming,Acer,13,25/11/2026,29/11/2026,85,Cancelled
+1061,Japan,Tokyo,Ultrabook,Asus,36,26/11/2026,30/11/2026,473,Pending
+1062,Brazil,London,Ultrabook,Dell,13,27/11/2026,1/12/2026,478,Shipped
+1063,Canada,Sao Paulo,Convertible,Microsoft,12,28/11/2026,2/12/2026,437,Delivered
+1064,France,Paris,Ultrabook,HP,37,29/11/2026,3/12/2026,458,Shipped
+1065,USA,Tokyo,Business,Lenovo,74,30/11/2026,4/12/2026,246,Shipped
+1066,Australia,Paris,Gaming,HP,73,1/12/2026,5/12/2026,207,Pending
+1067,USA,Tokyo,Business,Samsung,52,2/12/2026,6/12/2026,253,Delivered
+1068,Germany,Mumbai,Netbook,Acer,71,3/12/2026,7/12/2026,245,Cancelled
+1069,China,Sydney,Convertible,Acer,2,4/12/2026,8/12/2026,265,Shipped
+1070,USA,Paris,Ultrabook,HP,56,5/12/2026,9/12/2026,334,Pending
+1071,Germany,Sao Paulo,Netbook,Dell,60,6/12/2026,10/12/2026,245,Pending
+1072,Japan,Tokyo,Ultrabook,HP,23,7/12/2026,11/12/2026,356,Cancelled
+1073,Japan,Berlin,Gaming,Apple,40,8/12/2026,12/12/2026,201,Pending
+1074,India,Beijing,Gaming,Samsung,64,9/12/2026,13/12/2026,63,Shipped
+1075,USA,Berlin,Gaming,Samsung,85,10/12/2026,14/12/2026,374,Pending
+1076,Australia,New York,Ultrabook,HP,23,11/12/2026,15/12/2026,195,Delivered
+1077,USA,Sydney,Netbook,Lenovo,29,12/12/2026,16/12/2026,475,Delivered
+1078,Australia,Sydney,Gaming,Lenovo,78,13/12/2026,17/12/2026,106,Shipped
+1079,UK,Berlin,Netbook,Samsung,90,14/12/2026,18/12/2026,260,Delivered
+1080,India,London,Ultrabook,Asus,51,15/12/2026,19/12/2026,317,Cancelled
+1081,UK,Mumbai,Netbook,Lenovo,69,16/12/2026,20/12/2026,259,Pending
+1082,USA,Paris,Ultrabook,HP,95,17/12/2026,21/12/2026,66,Shipped
+1083,India,Sao Paulo,Ultrabook,Lenovo,89,18/12/2026,22/12/2026,335,Cancelled
+1084,UK,Sydney,Convertible,Samsung,31,19/12/2026,23/12/2026,393,Pending
+1085,Canada,Berlin,Ultrabook,Dell,50,20/12/2026,24/12/2026,252,Cancelled
+1086,USA,Berlin,Ultrabook,Microsoft,20,21/12/2026,25/12/2026,148,Shipped
+1087,UK,Mumbai,Business,Lenovo,55,22/12/2026,26/12/2026,328,Shipped
+1088,Canada,Mumbai,Gaming,Apple,81,23/12/2026,27/12/2026,258,Cancelled
+1089,Canada,Toronto,Convertible,Dell,2,24/12/2026,28/12/2026,178,Pending
+1090,Japan,Toronto,Convertible,Asus,25,25/12/2026,29/12/2026,384,Delivered
+1091,USA,London,Convertible,Apple,13,26/12/2026,30/12/2026,337,Delivered
+1092,Canada,London,Business,HP,92,27/12/2026,31/12/2026,301,Cancelled
+1093,Japan,New York,Ultrabook,Microsoft,70,28/12/2026,1/1/2027,314,Shipped
+1094,UK,London,Gaming,HP,67,29/12/2026,2/1/2027,320,Pending
+1095,Germany,Tokyo,Netbook,Microsoft,58,30/12/2026,3/1/2027,461,Pending
+1096,USA,Mumbai,Ultrabook,Microsoft,99,31/12/2026,4/1/2027,457,Shipped
+1097,India,Sao Paulo,Business,HP,82,1/1/2027,5/1/2027,237,Delivered
+1098,Australia,Tokyo,Ultrabook,Apple,75,2/1/2027,6/1/2027,468,Pending
+1099,Australia,Paris,Ultrabook,Apple,84,3/1/2027,7/1/2027,263,Cancelled
+1100,UK,Berlin,Business,Microsoft,64,4/1/2027,8/1/2027,332,Delivered
+1101,Brazil,London,Convertible,Apple,69,5/1/2027,9/1/2027,260,Cancelled
+1102,Brazil,Berlin,Convertible,Microsoft,83,6/1/2027,10/1/2027,414,Delivered
+1103,UK,Sydney,Gaming,Samsung,86,7/1/2027,11/1/2027,125,Shipped
+1104,Canada,New York,Gaming,Microsoft,59,8/1/2027,12/1/2027,197,Cancelled
+1105,USA,Sydney,Convertible,Samsung,60,9/1/2027,13/1/2027,370,Cancelled
+1106,Australia,New York,Netbook,Dell,83,10/1/2027,14/1/2027,262,Shipped
+1107,Australia,Toronto,Ultrabook,Acer,62,11/1/2027,15/1/2027,482,Cancelled
+1108,Canada,Berlin,Netbook,Dell,16,12/1/2027,16/1/2027,158,Delivered
+1109,Australia,New York,Ultrabook,HP,88,13/1/2027,17/1/2027,178,Pending
+1110,India,Beijing,Convertible,Acer,68,14/1/2027,18/1/2027,59,Pending
+1111,USA,Tokyo,Gaming,Lenovo,15,15/1/2027,19/1/2027,96,Shipped
+1112,China,New York,Gaming,HP,89,16/1/2027,20/1/2027,428,Delivered
+1113,Australia,New York,Netbook,Asus,55,17/1/2027,21/1/2027,364,Cancelled
+1114,UK,Tokyo,Gaming,Dell,35,18/1/2027,22/1/2027,145,Cancelled
+1115,India,Berlin,Convertible,Apple,55,19/1/2027,23/1/2027,495,Pending
+1116,Australia,Berlin,Netbook,Dell,14,20/1/2027,24/1/2027,152,Cancelled
+1117,India,Tokyo,Ultrabook,Apple,49,21/1/2027,25/1/2027,429,Pending
+1118,Japan,Sydney,Gaming,Acer,83,22/1/2027,26/1/2027,391,Shipped
+1119,China,Beijing,Business,Asus,7,23/1/2027,27/1/2027,195,Cancelled
+1120,France,Sao Paulo,Gaming,Acer,30,24/1/2027,28/1/2027,417,Delivered
+1121,UK,Paris,Ultrabook,Asus,83,25/1/2027,29/1/2027,479,Cancelled
+1122,UK,Beijing,Netbook,Dell,49,26/1/2027,30/1/2027,465,Pending
+1123,USA,Berlin,Ultrabook,Apple,89,27/1/2027,31/1/2027,76,Shipped
+1124,India,Sao Paulo,Business,Acer,16,28/1/2027,1/2/2027,269,Pending
+1125,Canada,Toronto,Convertible,Asus,51,29/1/2027,2/2/2027,67,Cancelled
+1126,UK,London,Gaming,Microsoft,72,30/1/2027,3/2/2027,216,Pending
+1127,India,New York,Netbook,HP,82,31/1/2027,4/2/2027,482,Pending
+1128,India,Tokyo,Convertible,HP,92,1/2/2027,5/2/2027,131,Shipped
+1129,Germany,Tokyo,Ultrabook,Acer,80,2/2/2027,6/2/2027,477,Delivered
+1130,Germany,New York,Netbook,Apple,83,3/2/2027,7/2/2027,121,Cancelled
+1131,France,London,Convertible,Microsoft,42,4/2/2027,8/2/2027,359,Shipped
+1132,Japan,Paris,Netbook,Acer,17,5/2/2027,9/2/2027,303,Delivered
+1133,France,London,Business,Dell,63,6/2/2027,10/2/2027,211,Pending
+1134,Australia,Sao Paulo,Business,Asus,45,7/2/2027,11/2/2027,376,Delivered
+1135,Canada,London,Gaming,Samsung,77,8/2/2027,12/2/2027,469,Pending
+1136,Australia,Sao Paulo,Gaming,Dell,7,9/2/2027,13/2/2027,451,Pending
+1137,Brazil,London,Business,HP,27,10/2/2027,14/2/2027,87,Shipped
+1138,Australia,Paris,Netbook,Asus,10,11/2/2027,15/2/2027,492,Pending
+1139,USA,Paris,Business,Acer,34,12/2/2027,16/2/2027,442,Shipped
+1140,Australia,Berlin,Gaming,Dell,36,13/2/2027,17/2/2027,250,Delivered
+1141,France,New York,Business,Lenovo,25,14/2/2027,18/2/2027,249,Delivered
+1142,UK,Paris,Business,Samsung,6,15/2/2027,19/2/2027,304,Pending
+1143,UK,Sao Paulo,Netbook,Apple,24,16/2/2027,20/2/2027,228,Shipped
+1144,Germany,Paris,Convertible,Microsoft,18,17/2/2027,21/2/2027,84,Pending
+1145,Canada,Berlin,Gaming,Microsoft,87,18/2/2027,22/2/2027,131,Shipped
+1146,Canada,Tokyo,Netbook,Apple,6,19/2/2027,23/2/2027,438,Shipped
+1147,USA,Sao Paulo,Business,Lenovo,29,20/2/2027,24/2/2027,447,Shipped
+1148,France,Berlin,Business,HP,25,21/2/2027,25/2/2027,269,Delivered
+1149,Germany,Sydney,Convertible,Asus,55,22/2/2027,26/2/2027,207,Shipped
+1150,Brazil,Sydney,Gaming,Apple,81,23/2/2027,27/2/2027,53,Delivered
+1151,Canada,Toronto,Gaming,Lenovo,46,24/2/2027,28/2/2027,216,Shipped
+1152,UK,London,Ultrabook,Acer,24,25/2/2027,1/3/2027,497,Delivered
+1153,Australia,New York,Gaming,Samsung,75,26/2/2027,2/3/2027,458,Cancelled
+1154,Australia,Mumbai,Convertible,Microsoft,26,27/2/2027,3/3/2027,461,Delivered
+1155,Germany,Beijing,Ultrabook,Samsung,98,28/2/2027,4/3/2027,253,Delivered
+1156,France,Berlin,Ultrabook,Lenovo,28,1/3/2027,5/3/2027,243,Pending
+1157,France,Tokyo,Business,Samsung,3,2/3/2027,6/3/2027,284,Shipped
+1158,Japan,Beijing,Business,HP,75,3/3/2027,7/3/2027,255,Cancelled
+1159,China,Tokyo,Gaming,HP,38,4/3/2027,8/3/2027,199,Pending
+1160,Canada,Beijing,Ultrabook,Dell,61,5/3/2027,9/3/2027,208,Shipped
+1161,France,Berlin,Business,Apple,78,6/3/2027,10/3/2027,328,Cancelled
+1162,UK,Mumbai,Convertible,Dell,51,7/3/2027,11/3/2027,353,Cancelled
+1163,Germany,Beijing,Business,Samsung,90,8/3/2027,12/3/2027,453,Cancelled
+1164,Brazil,Berlin,Business,Microsoft,48,9/3/2027,13/3/2027,430,Shipped
+1165,Japan,Paris,Ultrabook,Lenovo,21,10/3/2027,14/3/2027,215,Cancelled
+1166,India,Mumbai,Ultrabook,Asus,54,11/3/2027,15/3/2027,360,Cancelled
+1167,USA,Sao Paulo,Netbook,Samsung,56,12/3/2027,16/3/2027,117,Pending
+1168,Brazil,Tokyo,Convertible,Asus,94,13/3/2027,17/3/2027,137,Delivered
+1169,India,Sydney,Ultrabook,HP,59,14/3/2027,18/3/2027,266,Shipped
+1170,Australia,London,Gaming,Asus,72,15/3/2027,19/3/2027,50,Delivered
+1171,USA,Sydney,Convertible,Asus,51,16/3/2027,20/3/2027,184,Pending
+1172,Canada,Mumbai,Convertible,Microsoft,20,17/3/2027,21/3/2027,234,Delivered
+1173,UK,Sao Paulo,Ultrabook,Asus,96,18/3/2027,22/3/2027,400,Cancelled
+1174,USA,Tokyo,Convertible,Samsung,86,19/3/2027,23/3/2027,189,Cancelled
+1175,China,Sao Paulo,Ultrabook,Lenovo,59,20/3/2027,24/3/2027,155,Shipped
+1176,India,Beijing,Business,Asus,71,21/3/2027,25/3/2027,182,Shipped
+1177,Canada,Tokyo,Netbook,Acer,9,22/3/2027,26/3/2027,157,Shipped
+1178,China,Beijing,Business,Asus,1,23/3/2027,27/3/2027,227,Pending
+1179,Australia,Berlin,Ultrabook,Asus,29,24/3/2027,28/3/2027,347,Shipped
+1180,China,Mumbai,Ultrabook,Dell,63,25/3/2027,29/3/2027,407,Pending
+1181,Japan,Berlin,Business,Lenovo,72,26/3/2027,30/3/2027,429,Cancelled
+1182,Japan,Toronto,Gaming,Samsung,56,27/3/2027,31/3/2027,445,Delivered
+1183,Germany,Sao Paulo,Gaming,HP,68,28/3/2027,1/4/2027,408,Cancelled
+1184,Brazil,Beijing,Gaming,Dell,35,29/3/2027,2/4/2027,195,Cancelled
+1185,Brazil,Paris,Ultrabook,Samsung,3,30/3/2027,3/4/2027,499,Cancelled
+1186,Canada,Berlin,Convertible,Apple,7,31/3/2027,4/4/2027,123,Shipped
+1187,Australia,Toronto,Ultrabook,Lenovo,27,1/4/2027,5/4/2027,157,Shipped
+1188,France,New York,Convertible,Acer,1,2/4/2027,6/4/2027,171,Shipped
+1189,Japan,Sydney,Business,Lenovo,91,3/4/2027,7/4/2027,66,Delivered
+1190,Canada,Tokyo,Netbook,Apple,80,4/4/2027,8/4/2027,245,Shipped
+1191,France,Toronto,Convertible,Apple,71,5/4/2027,9/4/2027,376,Pending
+1192,Brazil,Mumbai,Gaming,Apple,44,6/4/2027,10/4/2027,367,Cancelled
+1193,Germany,Berlin,Ultrabook,Microsoft,87,7/4/2027,11/4/2027,346,Delivered
+1194,China,Mumbai,Business,HP,41,8/4/2027,12/4/2027,301,Delivered
+1195,Japan,Sydney,Gaming,Asus,75,9/4/2027,13/4/2027,168,Delivered
+1196,Canada,Paris,Business,Lenovo,42,10/4/2027,14/4/2027,211,Delivered
+1197,USA,Sao Paulo,Netbook,Samsung,33,11/4/2027,15/4/2027,247,Delivered
+1198,France,Sao Paulo,Ultrabook,Microsoft,50,12/4/2027,16/4/2027,94,Pending
+1199,China,Mumbai,Ultrabook,Samsung,63,13/4/2027,17/4/2027,363,Cancelled
+1200,Japan,Beijing,Netbook,Asus,37,14/4/2027,18/4/2027,228,Delivered
+1201,Brazil,Paris,Ultrabook,Asus,59,15/4/2027,19/4/2027,431,Cancelled
+1202,Australia,Sao Paulo,Convertible,Acer,81,16/4/2027,20/4/2027,467,Shipped
+1203,France,Paris,Business,Apple,99,17/4/2027,21/4/2027,93,Delivered
+1204,Brazil,Toronto,Gaming,HP,48,18/4/2027,22/4/2027,320,Delivered
+1205,Japan,Paris,Netbook,Acer,5,19/4/2027,23/4/2027,127,Cancelled
+1206,France,London,Convertible,Dell,48,20/4/2027,24/4/2027,375,Delivered
+1207,China,Sydney,Gaming,Microsoft,96,21/4/2027,25/4/2027,227,Delivered
+1208,Japan,Sao Paulo,Gaming,Microsoft,3,22/4/2027,26/4/2027,406,Delivered
+1209,India,Paris,Netbook,HP,47,23/4/2027,27/4/2027,465,Pending
+1210,Canada,Mumbai,Convertible,Asus,62,24/4/2027,28/4/2027,52,Pending
+1211,China,New York,Gaming,Samsung,99,25/4/2027,29/4/2027,263,Delivered
+1212,France,London,Gaming,Microsoft,14,26/4/2027,30/4/2027,391,Pending
+1213,Australia,London,Convertible,HP,63,27/4/2027,1/5/2027,123,Shipped
+1214,Brazil,Beijing,Ultrabook,Microsoft,61,28/4/2027,2/5/2027,100,Delivered
+1215,USA,Paris,Gaming,Microsoft,31,29/4/2027,3/5/2027,116,Shipped
+1216,Brazil,Beijing,Business,Apple,95,30/4/2027,4/5/2027,381,Cancelled
+1217,France,Beijing,Convertible,Dell,17,1/5/2027,5/5/2027,142,Shipped
+1218,Brazil,New York,Gaming,Apple,24,2/5/2027,6/5/2027,225,Cancelled
+1219,Canada,Toronto,Netbook,Dell,23,3/5/2027,7/5/2027,194,Delivered
+1220,Japan,Paris,Business,Microsoft,82,4/5/2027,8/5/2027,56,Cancelled
+1221,USA,Berlin,Gaming,Acer,50,5/5/2027,9/5/2027,318,Cancelled
+1222,UK,Sao Paulo,Business,Samsung,78,6/5/2027,10/5/2027,425,Shipped
+1223,France,Beijing,Business,Asus,79,7/5/2027,11/5/2027,371,Shipped
+1224,Germany,Sydney,Ultrabook,Microsoft,79,8/5/2027,12/5/2027,53,Shipped
+1225,UK,Tokyo,Business,Dell,70,9/5/2027,13/5/2027,187,Delivered
+1226,Brazil,Sydney,Ultrabook,Dell,27,10/5/2027,14/5/2027,280,Delivered
+1227,France,New York,Convertible,Dell,15,11/5/2027,15/5/2027,137,Shipped
+1228,India,New York,Ultrabook,Microsoft,50,12/5/2027,16/5/2027,66,Delivered
+1229,Germany,Mumbai,Netbook,HP,36,13/5/2027,17/5/2027,101,Delivered
+1230,USA,Toronto,Gaming,Acer,8,14/5/2027,18/5/2027,183,Cancelled
+1231,Australia,Sao Paulo,Convertible,HP,79,15/5/2027,19/5/2027,260,Cancelled
+1232,India,Beijing,Convertible,Asus,3,16/5/2027,20/5/2027,374,Shipped
+1233,UK,Sydney,Netbook,Microsoft,62,17/5/2027,21/5/2027,442,Delivered
+1234,Japan,Tokyo,Ultrabook,Dell,47,18/5/2027,22/5/2027,268,Cancelled
+1235,Canada,New York,Gaming,Acer,77,19/5/2027,23/5/2027,254,Pending
+1236,Australia,New York,Ultrabook,Acer,98,20/5/2027,24/5/2027,260,Delivered
+1237,India,Toronto,Business,Lenovo,88,21/5/2027,25/5/2027,326,Pending
+1238,Japan,Tokyo,Ultrabook,Asus,96,22/5/2027,26/5/2027,73,Shipped
+1239,Japan,Tokyo,Convertible,Samsung,61,23/5/2027,27/5/2027,53,Delivered
+1240,France,Toronto,Gaming,Samsung,32,24/5/2027,28/5/2027,201,Shipped
+1241,India,New York,Ultrabook,Acer,94,25/5/2027,29/5/2027,492,Shipped
+1242,USA,Sao Paulo,Gaming,Microsoft,13,26/5/2027,30/5/2027,308,Shipped
+1243,Brazil,Paris,Gaming,Dell,1,27/5/2027,31/5/2027,373,Shipped
+1244,Germany,Paris,Business,Dell,34,28/5/2027,1/6/2027,406,Shipped
+1245,Germany,Toronto,Business,Acer,62,29/5/2027,2/6/2027,217,Delivered
+1246,UK,Tokyo,Convertible,HP,79,30/5/2027,3/6/2027,225,Pending
+1247,UK,Beijing,Netbook,Asus,78,31/5/2027,4/6/2027,359,Delivered
+1248,Germany,Toronto,Gaming,Dell,93,1/6/2027,5/6/2027,340,Delivered
+1249,USA,Sao Paulo,Netbook,Acer,98,2/6/2027,6/6/2027,105,Delivered
+1250,Canada,Toronto,Convertible,Dell,82,3/6/2027,7/6/2027,157,Cancelled
+1251,China,London,Gaming,Samsung,71,4/6/2027,8/6/2027,345,Cancelled
+1252,Brazil,Sydney,Gaming,Acer,93,5/6/2027,9/6/2027,373,Delivered
+1253,Canada,Tokyo,Netbook,Asus,31,6/6/2027,10/6/2027,351,Pending
+1254,France,Mumbai,Ultrabook,Acer,64,7/6/2027,11/6/2027,383,Delivered
+1255,China,Mumbai,Business,Lenovo,25,8/6/2027,12/6/2027,190,Shipped
+1256,China,Tokyo,Ultrabook,Acer,38,9/6/2027,13/6/2027,204,Cancelled
+1257,India,Sao Paulo,Netbook,Acer,14,10/6/2027,14/6/2027,311,Cancelled
+1258,USA,London,Business,Microsoft,8,11/6/2027,15/6/2027,322,Delivered
+1259,USA,London,Ultrabook,Samsung,91,12/6/2027,16/6/2027,469,Delivered
+1260,China,New York,Business,Asus,54,13/6/2027,17/6/2027,281,Pending
+1261,India,Sydney,Gaming,Microsoft,2,14/6/2027,18/6/2027,290,Pending
+1262,Brazil,Paris,Ultrabook,Acer,81,15/6/2027,19/6/2027,404,Shipped
+1263,China,Berlin,Business,Asus,78,16/6/2027,20/6/2027,386,Delivered
+1264,Australia,Sao Paulo,Business,Lenovo,89,17/6/2027,21/6/2027,307,Delivered
+1265,UK,Berlin,Business,Asus,56,18/6/2027,22/6/2027,298,Delivered
+1266,UK,Berlin,Ultrabook,Dell,94,19/6/2027,23/6/2027,126,Cancelled
+1267,Canada,Tokyo,Convertible,Microsoft,93,20/6/2027,24/6/2027,229,Shipped
+1268,France,Mumbai,Ultrabook,Asus,84,21/6/2027,25/6/2027,115,Pending
+1269,UK,Mumbai,Netbook,Samsung,85,22/6/2027,26/6/2027,357,Cancelled
+1270,Japan,Paris,Ultrabook,Lenovo,61,23/6/2027,27/6/2027,397,Cancelled
+1271,Canada,Tokyo,Business,Apple,22,24/6/2027,28/6/2027,220,Cancelled
+1272,UK,Berlin,Gaming,Acer,35,25/6/2027,29/6/2027,71,Cancelled
+1273,France,Beijing,Ultrabook,Asus,16,26/6/2027,30/6/2027,416,Shipped
+1274,USA,Mumbai,Ultrabook,Acer,50,27/6/2027,1/7/2027,156,Delivered
+1275,USA,Sao Paulo,Business,HP,43,28/6/2027,2/7/2027,488,Pending
+1276,Brazil,Sao Paulo,Gaming,Dell,17,29/6/2027,3/7/2027,372,Pending
+1277,China,New York,Gaming,Microsoft,80,30/6/2027,4/7/2027,276,Cancelled
+1278,Australia,Toronto,Netbook,Dell,58,1/7/2027,5/7/2027,493,Cancelled
+1279,USA,Beijing,Ultrabook,HP,2,2/7/2027,6/7/2027,491,Shipped
+1280,India,Mumbai,Gaming,HP,4,3/7/2027,7/7/2027,445,Cancelled
+1281,UK,London,Gaming,Microsoft,85,4/7/2027,8/7/2027,265,Pending
+1282,India,Mumbai,Convertible,Asus,39,5/7/2027,9/7/2027,118,Pending
+1283,France,New York,Convertible,HP,98,6/7/2027,10/7/2027,133,Delivered
+1284,USA,Sao Paulo,Gaming,Apple,94,7/7/2027,11/7/2027,152,Delivered
+1285,Australia,Berlin,Netbook,Acer,6,8/7/2027,12/7/2027,88,Pending
+1286,France,London,Gaming,Acer,81,9/7/2027,13/7/2027,62,Pending
+1287,Japan,Tokyo,Business,Lenovo,89,10/7/2027,14/7/2027,346,Shipped
+1288,Japan,Sydney,Ultrabook,Samsung,69,11/7/2027,15/7/2027,362,Shipped
+1289,India,Berlin,Netbook,HP,69,12/7/2027,16/7/2027,230,Pending
+1290,China,Sydney,Business,HP,20,13/7/2027,17/7/2027,317,Cancelled
+1291,Canada,Beijing,Netbook,Apple,64,14/7/2027,18/7/2027,62,Delivered
+1292,China,Toronto,Business,Dell,16,15/7/2027,19/7/2027,169,Pending
+1293,Brazil,London,Ultrabook,Dell,51,16/7/2027,20/7/2027,402,Cancelled
+1294,China,Paris,Ultrabook,Acer,37,17/7/2027,21/7/2027,106,Pending
+1295,Brazil,London,Convertible,Acer,73,18/7/2027,22/7/2027,89,Delivered
+1296,Brazil,Mumbai,Business,Asus,69,19/7/2027,23/7/2027,423,Delivered
+1297,Australia,Sao Paulo,Convertible,Microsoft,42,20/7/2027,24/7/2027,385,Shipped
+1298,USA,Mumbai,Business,Samsung,57,21/7/2027,25/7/2027,177,Shipped
+1299,Australia,Mumbai,Convertible,Apple,66,22/7/2027,26/7/2027,222,Shipped
+1300,Brazil,Beijing,Ultrabook,Microsoft,9,23/7/2027,27/7/2027,84,Shipped
+1301,France,Berlin,Netbook,Microsoft,86,24/7/2027,28/7/2027,308,Delivered
+1302,Japan,Paris,Convertible,Lenovo,64,25/7/2027,29/7/2027,425,Cancelled
+1303,Brazil,Paris,Business,Microsoft,86,26/7/2027,30/7/2027,54,Cancelled
+1304,Australia,Mumbai,Business,Lenovo,22,27/7/2027,31/7/2027,267,Cancelled
+1305,France,Sydney,Ultrabook,Microsoft,34,28/7/2027,1/8/2027,60,Pending
+1306,Australia,Beijing,Business,Apple,55,29/7/2027,2/8/2027,431,Shipped
+1307,China,Mumbai,Gaming,Lenovo,29,30/7/2027,3/8/2027,376,Shipped
+1308,UK,Toronto,Netbook,Dell,38,31/7/2027,4/8/2027,166,Delivered
+1309,India,Sao Paulo,Convertible,Lenovo,97,1/8/2027,5/8/2027,233,Delivered
+1310,Canada,Berlin,Netbook,Lenovo,18,2/8/2027,6/8/2027,443,Pending
+1311,Australia,Tokyo,Ultrabook,Apple,71,3/8/2027,7/8/2027,411,Pending
+1312,Canada,Toronto,Convertible,Apple,65,4/8/2027,8/8/2027,165,Cancelled
+1313,Germany,Sydney,Convertible,Lenovo,97,5/8/2027,9/8/2027,211,Delivered
+1314,Australia,London,Gaming,Samsung,1,6/8/2027,10/8/2027,116,Shipped
+1315,UK,London,Ultrabook,HP,88,7/8/2027,11/8/2027,249,Cancelled
+1316,Canada,Toronto,Business,Samsung,4,8/8/2027,12/8/2027,80,Shipped
+1317,Brazil,Mumbai,Gaming,Apple,4,9/8/2027,13/8/2027,124,Cancelled
+1318,Australia,Tokyo,Gaming,Samsung,82,10/8/2027,14/8/2027,286,Shipped
+1319,USA,New York,Netbook,Samsung,27,11/8/2027,15/8/2027,376,Pending
+1320,India,New York,Netbook,Asus,43,12/8/2027,16/8/2027,115,Cancelled
+1321,UK,Sydney,Netbook,Asus,59,13/8/2027,17/8/2027,119,Shipped
+1322,Canada,Mumbai,Gaming,Dell,32,14/8/2027,18/8/2027,346,Shipped
+1323,UK,Paris,Business,Microsoft,33,15/8/2027,19/8/2027,496,Delivered
+1324,France,Paris,Convertible,Lenovo,28,16/8/2027,20/8/2027,465,Cancelled
+1325,India,Berlin,Netbook,HP,55,17/8/2027,21/8/2027,69,Shipped
+1326,Brazil,Tokyo,Business,Dell,60,18/8/2027,22/8/2027,490,Delivered
+1327,Australia,Tokyo,Ultrabook,Lenovo,70,19/8/2027,23/8/2027,275,Shipped
+1328,Australia,London,Netbook,Samsung,62,20/8/2027,24/8/2027,483,Cancelled
+1329,Australia,Beijing,Convertible,Apple,80,21/8/2027,25/8/2027,458,Pending
+1330,India,Sydney,Ultrabook,Asus,34,22/8/2027,26/8/2027,445,Cancelled
+1331,USA,New York,Ultrabook,Acer,87,23/8/2027,27/8/2027,248,Cancelled
+1332,Germany,Sydney,Convertible,HP,88,24/8/2027,28/8/2027,88,Shipped
+1333,Japan,Paris,Netbook,Samsung,56,25/8/2027,29/8/2027,194,Shipped
+1334,China,Paris,Gaming,Acer,13,26/8/2027,30/8/2027,94,Cancelled
+1335,Canada,Toronto,Convertible,Asus,56,27/8/2027,31/8/2027,444,Delivered
+1336,USA,Berlin,Convertible,Samsung,18,28/8/2027,1/9/2027,375,Delivered
+1337,Brazil,Tokyo,Convertible,Microsoft,54,29/8/2027,2/9/2027,430,Delivered
+1338,Canada,Sao Paulo,Ultrabook,Microsoft,77,30/8/2027,3/9/2027,456,Shipped
+1339,Australia,Sydney,Business,Acer,43,31/8/2027,4/9/2027,140,Shipped
+1340,UK,Paris,Gaming,Apple,39,1/9/2027,5/9/2027,287,Cancelled
+1341,Brazil,Beijing,Netbook,Samsung,61,2/9/2027,6/9/2027,119,Pending
+1342,Canada,London,Netbook,Lenovo,42,3/9/2027,7/9/2027,215,Shipped
+1343,Australia,New York,Business,Samsung,81,4/9/2027,8/9/2027,179,Cancelled
+1344,Canada,Berlin,Convertible,Apple,79,5/9/2027,9/9/2027,263,Cancelled
+1345,UK,Beijing,Gaming,Samsung,18,6/9/2027,10/9/2027,389,Pending
+1346,Australia,Berlin,Netbook,Acer,23,7/9/2027,11/9/2027,138,Delivered
+1347,Germany,Toronto,Netbook,Apple,54,8/9/2027,12/9/2027,384,Cancelled
+1348,USA,Sao Paulo,Convertible,Asus,30,9/9/2027,13/9/2027,301,Cancelled
+1349,France,Paris,Business,HP,98,10/9/2027,1/1/1900,418,Cancelled
+1350,China,London,Gaming,Apple,58,11/9/2027,15/9/2027,398,Delivered
+1351,India,Beijing,Business,Samsung,68,12/9/2027,16/9/2027,121,Delivered
+1352,China,Berlin,Business,Asus,67,13/9/2027,17/9/2027,214,Pending
+1353,Brazil,Tokyo,Gaming,HP,71,14/9/2027,18/9/2027,98,Shipped
+1354,China,Toronto,Gaming,Microsoft,18,15/9/2027,19/9/2027,101,Delivered
+1355,Australia,Tokyo,Netbook,Lenovo,7,16/9/2027,20/9/2027,338,Shipped
+1356,Germany,London,Netbook,Acer,40,17/9/2027,21/9/2027,327,Shipped
+1357,France,Beijing,Gaming,Samsung,70,18/9/2027,22/9/2027,163,Delivered
+1358,USA,Toronto,Ultrabook,Samsung,86,19/9/2027,23/9/2027,288,Cancelled
+1359,USA,Beijing,Netbook,Microsoft,65,20/9/2027,24/9/2027,182,Pending
+1360,UK,Paris,Ultrabook,Lenovo,68,21/9/2027,25/9/2027,323,Shipped

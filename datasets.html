@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Datasets - Nasrullah's Portfolio</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+    <style>
+        html {
+            scroll-behavior: smooth;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <a class="navbar-brand" href="index.html">Nasrullah (Nas) Nazaruddin🚀</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item">
+                    <a class="nav-link" href="index.html">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="about.html">About</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="projects.html">Projects</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="datasets.html">Datasets</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="contact.html">Contact</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Datasets Section -->
+    <section class="py-5">
+        <div class="container">
+            <h2 class="mb-4 text-center">Datasets</h2>
+            <p class="text-center">Here are some dummy datasets created for machine learning and analysis. You can download and use them for your projects.</p>
+
+            <!-- Students Dataset -->
+            <div class="card mb-4">
+                <div class="card-body">
+                    <h5 class="card-title">Students Dataset</h5>
+                    <p class="card-text">This dataset includes information about students' grades and personal aptitude scores. It can be used for machine learning and analysis.</p>
+                    <ul>
+                        <li><strong>StudentID:</strong> Unique identifier for each student.</li>
+                        <li><strong>Age:</strong> Age of the student (between 16 and 22).</li>
+                        <li><strong>Gender:</strong> Gender of the student (Male or Female).</li>
+                        <li><strong>Grade_Math, Grade_English, Grade_Science, Grade_History:</strong> Grades in respective subjects (between 50 and 100).</li>
+                        <li><strong>Attendance:</strong> Attendance percentage (between 70 and 100).</li>
+                        <li><strong>Behavior_Score, Participation_Score, Punctuality_Score, Homework_Completion_Score:</strong> Personal aptitude scores (between 0 and 5).</li>
+                    </ul>
+                    <a href="datasets/students_dataset.csv" class="btn btn-primary" download>Download Students Dataset</a>
+                </div>
+            </div>
+
+            <!-- Employees Dataset -->
+            <div class="card mb-4">
+                <div class="card-body">
+                    <h5 class="card-title">Employees Dataset</h5>
+                    <p class="card-text">This dataset includes information about employees' contributions, merit pay, and cost calculations. It can be used for machine learning and analysis.</p>
+                    <ul>
+                        <li><strong>EmployeeID:</strong> Unique identifier for each employee.</li>
+                        <li><strong>Age:</strong> Age of the employee (between 25 and 60).</li>
+                        <li><strong>Gender:</strong> Gender of the employee (Male or Female).</li>
+                        <li><strong>Position:</strong> Job position of the employee.</li>
+                        <li><strong>Years_of_Experience:</strong> Number of years of experience (between 1 and 35).</li>
+                        <li><strong>Base_Salary:</strong> Base salary of the employee (between 30,000 and 120,000).</li>
+                        <li><strong>Payroll_Taxes:</strong> Payroll taxes paid by the employee (between 3,000 and 12,000).</li>
+                        <li><strong>Benefits:</strong> Benefits received by the employee (between 2,000 and 10,000).</li>
+                        <li><strong>Merit_Contributions:</strong> Contributions done by the employee (0-10 scale).</li>
+                        <li><strong>Exceeds_Quota:</strong> Indicator if the employee exceeds their quota (0 or 1).</li>
+                        <li><strong>Annual_Overhead_Costs:</strong> Annual overhead costs attributed to the employee (between 5,000 and 20,000).</li>
+                        <li><strong>Total_Compensation:</strong> Total compensation of the employee (sum of base salary, payroll taxes, and benefits).</li>
+                        <li><strong>Cost_per_Employee:</strong> Cost per employee considering total compensation and annual overhead costs.</li>
+                    </ul>
+                    <a href="datasets/employee_dataset.csv" class="btn btn-primary" download>Download Employees Dataset</a>
+                </div>
+            </div>
+
+            <!-- Laptop Shipments Dataset -->
+            <div class="card mb-4">
+                <div class="card-body">
+                    <h5 class="card-title">Laptop Shipments Dataset</h5>
+                    <p class="card-text">This dataset includes information about laptop shipments, including destination and type of laptop. It can be used for machine learning and analysis.</p>
+                    <ul>
+                        <li><strong>ShipmentID:</strong> Unique identifier for each shipment.</li>
+                        <li><strong>Destination_Country:</strong> Destination country for the shipment.</li>
+                        <li><strong>Destination_City:</strong> Destination city for the shipment.</li>
+                        <li><strong>Type_of_Laptop:</strong> Type of laptop being shipped (e.g., Gaming, Business, Ultrabook, Convertible, Netbook).</li>
+                        <li><strong>Brand:</strong> Brand of the laptop being shipped (e.g., Dell, HP, Lenovo, Apple, Asus, Acer, Microsoft, Samsung).</li>
+                        <li><strong>Quantity:</strong> Number of laptops in the shipment.</li>
+                        <li><strong>Shipment_Date:</strong> Date when the shipment is sent.</li>
+                        <li><strong>Expected_Delivery_Date:</strong> Expected delivery date of the shipment.</li>
+                        <li><strong>Shipping_Cost:</strong> Cost of shipping the laptops.</li>
+                        <li><strong>Status:</strong> Current status of the shipment (e.g., Pending, Shipped, Delivered, Cancelled).</li>
+                    </ul>
+                    <a href="datasets/laptop_shipments_dataset.csv" class="btn btn-primary" download>Download Laptop Shipments Dataset</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="bg-dark text-white text-center py-3">
+        <div class="container">
+            <p>&copy; 2024 Nasrullah. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <!-- Bootstrap JS, Popper.js, and jQuery -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script src="js/script.js"></script>
+</body>
+</html>

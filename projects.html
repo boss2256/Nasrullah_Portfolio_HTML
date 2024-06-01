@@ -7,11 +7,20 @@
     <!-- Bootstrap CSS -->
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="css/style.css">
+    <style>
+        .filter-btn {
+            margin-right: 5px;
+        }
+        .filter-btn.active {
+            background-color: #007bff;
+            color: white;
+        }
+    </style>
 </head>
 <body>
     <!-- Navbar -->
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-        <a class="navbar-brand" href="index.html">Nasrullah (Nas) Nazaruddin🚀</a>
+        <a class="navbar-brand" href="#">Nasrullah (Nas) Nazaruddin🚀</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
@@ -24,7 +33,10 @@
                     <a class="nav-link" href="about.html">About</a>
                 </li>
                 <li class="nav-item active">
-                    <a class="nav-link" href="#">Projects</a>
+                    <a class="nav-link" href="projects.html">Projects</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="datasets.html">Datasets</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="contact.html">Contact</a>
@@ -36,39 +48,203 @@
     <!-- Projects Section -->
     <section class="py-5">
         <div class="container">
-            <h2 class="mb-4">Projects</h2>
-            <div class="row">
-                <div class="col-lg-4 col-md-6 mb-4">
-                    <div class="card">
-                        <img src="images/app.png" class="card-img-top" alt="SignVision App">
+            <h2 class="mb-4 text-center">Projects</h2>
+            <!-- Filter Buttons -->
+            <div class="text-center mb-4">
+                <button class="btn btn-primary filter-btn active" onclick="filterProjects('all')">All</button>
+                <button class="btn btn-secondary filter-btn" onclick="filterProjects('AI')">AI</button>
+                <button class="btn btn-secondary filter-btn" onclick="filterProjects('Machine Learning')">Machine Learning</button>
+                <button class="btn btn-secondary filter-btn" onclick="filterProjects('Web Development')">Web Development</button>
+            </div>
+
+            <div class="row" id="projects-container">
+                <!-- SignVision Project -->
+                <div class="col-lg-4 col-md-6 mb-4 project-card" data-category="AI">
+                    <div class="card rounded">
+                        <img src="images/app.png" class="card-img-top rounded-top" alt="SignVision App">
                         <div class="card-body">
                             <h5 class="card-title">SignVision</h5>
                             <p class="card-text">A real-time sign language translator leveraging AI and deep learning.</p>
+                            <p class="card-text"><small class="text-muted">Duration: March 2023 - May 2023</small></p>
                             <a href="https://medium.com/@nesruler/signvision-a-real-time-mobile-sign-language-recognition-application-using-chatgpt-1ce73a0c6a55" class="btn btn-primary" target="_blank">Learn More</a>
                         </div>
                     </div>
                 </div>
-                <!-- Add more project cards as needed -->
-                <div class="col-lg-4 col-md-6 mb-4">
-                    <div class="card">
-                        <img src="images/project1.jpg" class="card-img-top" alt="Project 1">
+                <!-- Early MRI Dementia Detection Project -->
+                <div class="col-lg-4 col-md-6 mb-4 project-card" data-category="Machine Learning">
+                    <div class="card rounded">
+                        <img src="images/dementia.png" class="card-img-top rounded-top" alt="Early MRI Dementia Detection">
                         <div class="card-body">
-                            <h5 class="card-title">Project 1</h5>
-                            <p class="card-text">Description of Project 1.</p>
-                            <a href="#" class="btn btn-primary">Learn More</a>
+                            <h5 class="card-title">Early MRI Dementia Detection using CNN and FNN</h5>
+                            <p class="card-text">An AI-based solution for early detection of dementia using MRI scans, leveraging Convolutional Neural Networks (CNN) and Feedforward Neural Networks (FNN).</p>
+                            <p class="card-text"><small class="text-muted">Duration: Dec 2023 - Feb 2024</small></p>
+                            <a href="https://github.com/boss2256/Dementia-AI-Detection" class="btn btn-primary" target="_blank">View Github</a>
+                            <a href="https://dementiadetection-51c4fdc49ae6.herokuapp.com/" class="btn btn-primary" target="_blank">Launch App</a>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 mb-4">
-                    <div class="card">
-                        <img src="images/project2.jpg" class="card-img-top" alt="Project 2">
+                <!-- Rental Home Price Prediction Project -->
+                <div class="col-lg-4 col-md-6 mb-4 project-card" data-category="Machine Learning">
+                    <div class="card rounded">
+                        <img src="images/rental_prediction.png" class="card-img-top rounded-top" alt="Rental Home Price Prediction">
                         <div class="card-body">
-                            <h5 class="card-title">Project 2</h5>
-                            <p class="card-text">Description of Project 2.</p>
-                            <a href="#" class="btn btn-primary">Learn More</a>
+                            <h5 class="card-title">Rental Home Price Prediction using MLOps, PyCaret, MLFlow</h5>
+                            <p class="card-text">Predict rental home prices based on various features using a regression machine learning model.</p>
+                            <p class="card-text"><small class="text-muted">Duration: Dec 2023 - Feb 2024</small></p>
+                            <a href="https://github.com/boss2256/MLOps-Web-Application" class="btn btn-primary" target="_blank">View Github</a>
+                            <a href="https://mlops-prediction-nas-shaqirah-eaba5152ba6d.herokuapp.com/" class="btn btn-primary" target="_blank">Launch App</a>
                         </div>
                     </div>
                 </div>
+                <!-- VisionAnything Project -->
+                <div class="col-lg-4 col-md-6 mb-4 project-card" data-category="AI">
+                    <div class="card rounded">
+                        <img src="images/visionanything.png" class="card-img-top rounded-top" alt="VisionAnything">
+                        <div class="card-body">
+                            <h5 class="card-title">VisionAnything</h5>
+                            <p class="card-text">A real-time image segmentation application using the Segment Anything Model (SAM) and deep learning to assist in children's cognitive development by identifying everyday objects.</p>
+                            <p class="card-text"><small class="text-muted">Duration: Feb 2024 - Apr 2024</small></p>
+                            <a href="https://github.com/boss2256/VisionAnything-SAM-OpenAI" class="btn btn-primary" target="_blank">View Github</a>
+                            <a href="https://visionanything-f611522951e1.herokuapp.com/" class="btn btn-primary" target="_blank">Launch App</a>
+                        </div>
+                    </div>
+                </div>
+                <!-- EigenFaces FaceDetection Project -->
+                <div class="col-lg-4 col-md-6 mb-4 project-card" data-category="Machine Learning">
+                    <div class="card rounded">
+                        <img src="images/pca_face.png" class="card-img-top rounded-top" alt="EigenFaces FaceDetection">
+                        <div class="card-body">
+                            <h5 class="card-title">EigenFaces FaceDetection using PCA and SVM</h5>
+                            <p class="card-text">A face detection and recognition system leveraging Principal Component Analysis (PCA) and Support Vector Machine (SVM).</p>
+                            <p class="card-text"><small class="text-muted">Duration: Feb 2024 - Apr 2024</small></p>
+                            <a href="https://github.com/boss2256/PCA-SVM-FaceDetection/tree/main" class="btn btn-primary" target="_blank">View Github</a>
+                        </div>
+                    </div>
+                </div>
+                <!-- Robust Fruit Classifier Project -->
+                <div class="col-lg-4 col-md-6 mb-4 project-card" data-category="Machine Learning">
+                    <div class="card rounded">
+                        <img src="images/fruits.png" class="card-img-top rounded-top" alt="Robust Fruit Classifier">
+                        <div class="card-body">
+                            <h5 class="card-title">Robust Fruit Classifier using Tensorflow CNN & Data Augmentation</h5>
+                            <p class="card-text">A robust fruit classification system using Convolutional Neural Networks (CNN) to accurately identify various types of fruits.</p>
+                            <p class="card-text"><small class="text-muted">Duration: Mar 2024 - Apr 2024</small></p>
+                            <a href="https://github.com/boss2256/CNN-Fruit-Classifier" class="btn btn-primary" target="_blank">View Github</a>
+                        </div>
+                    </div>
+                </div>
+                <!-- L2 Regularizer CNN Robust Cats vs Dogs Classification -->
+                <div class="col-lg-4 col-md-6 mb-4 project-card" data-category="Machine Learning">
+                    <div class="card rounded">
+                        <img src="images/cats_dogs.png" class="card-img-top rounded-top" alt="CNN Robust Cats vs Dogs Classification">
+                        <div class="card-body">
+                            <h5 class="card-title">L2 Regularizer CNN Robust Cats vs Dogs Classification</h5>
+                            <p class="card-text">A robust classification system using Convolutional Neural Networks (CNN) with regularization to accurately identify cats and dogs.</p>
+                            <p class="card-text"><small class="text-muted">Duration: Mar 2024 - Apr 2024</small></p>
+                            <a href="https://github.com/boss2256/CNN-Cats-Vs-Dogs" class="btn btn-primary" target="_blank">View Github</a>
+                        </div>
+                    </div>
+                </div>
+                <!-- Linear Regression and Ensemble Methods for SPY500 Stock Price Prediction -->
+                <div class="col-lg-4 col-md-6 mb-4 project-card" data-category="Machine Learning">
+                    <div class="card rounded">
+                        <img src="images/SPY500_Stock_Price_Prediction.jpg" class="card-img-top rounded-top" alt="Linear Regression and Ensemble Methods for SPY500 Stock Price Prediction">
+                        <div class="card-body">
+                            <h5 class="card-title">Linear Regression and Ensemble Methods for SPY500 Stock Price Prediction</h5>
+                            <p class="card-text">A machine learning model using Linear Regression, Random Forest, and Gradient Boosting to predict SPY500 stock prices based on historical data.</p>
+                            <p class="card-text"><small class="text-muted">Duration: May 2024 - May 2024</small></p>
+                            <a href="https://github.com/boss2256/SPY500-StockPrediction" class="btn btn-primary" target="_blank">View Github</a>
+                        </div>
+                    </div>
+                </div>
+                <!-- Advanced NLP with Hugging Face BERT and BiLSTM -->
+                <div class="col-lg-4 col-md-6 mb-4 project-card" data-category="AI">
+                    <div class="card rounded">
+                        <img src="images/bilstm.png" class="card-img-top rounded-top" alt="Advanced NLP with Hugging Face BERT and BiLSTM">
+                        <div class="card-body">
+                            <h5 class="card-title">Advanced NLP with Hugging Face BERT and BiLSTM</h5>
+                            <p class="card-text">An advanced NLP project utilizing Hugging Face BERT and BiLSTM models for text generation and classification.</p>
+                            <p class="card-text"><small class="text-muted">Duration: Apr 2024 - Apr 2024</small></p>
+                            <a href="https://github.com/boss2256/Hugging-Face-BERT-and-BiLSTM-Transformer-NLP-Project" class="btn btn-primary" target="_blank">View Github</a>
+                        </div>
+                    </div>
+                </div>
+                <!-- Advanced Text Analysis with NLTK and Scikit-Learn -->
+                <div class="col-lg-4 col-md-6 mb-4 project-card" data-category="AI">
+                    <div class="card rounded">
+                        <img src="images/ROC.png" class="card-img-top rounded-top" alt="Advanced Text Analysis with NLTK and Scikit-Learn">
+                        <div class="card-body">
+                            <h5 class="card-title">Advanced Text Analysis with NLTK and Scikit-Learn</h5>
+                            <p class="card-text">A project focused on text analysis and sentiment classification using NLTK and Scikit-Learn.</p>
+                            <p class="card-text"><small class="text-muted">Duration: Mar 2024 - Mar 2024</small></p>
+                            <a href="https://github.com/boss2256/Advanced-Text-Analysis-with-NLTK-and-Scikit-Learn" class="btn btn-primary" target="_blank">View Github</a>
+                        </div>
+                    </div>
+                </div>
+                <!-- Advanced ML Techniques for Waste Classification and Employee Ratings Prediction -->
+                <div class="col-lg-4 col-md-6 mb-4 project-card" data-category="Machine Learning">
+                    <div class="card rounded">
+                        <img src="images/waste.png" class="card-img-top rounded-top" alt="Advanced ML Techniques for Waste Classification and Employee Ratings Prediction">
+                        <div class="card-body">
+                            <h5 class="card-title">Advanced ML Techniques for Waste Classification and Employee Ratings Prediction</h5>
+                            <p class="card-text">This project involves applying advanced machine learning techniques for waste classification using the RealWaste dataset and predicting employee ratings based on various features.</p>
+                            <p class="card-text"><small class="text-muted">Duration: May 2024 - May 2024</small></p>
+                            <a href="https://github.com/boss2256/Advanced-ML-Techniques-for-Waste-Classification-and-Employee-Ratings-Prediction" class="btn btn-primary" target="_blank">View Github</a>
+                        </div>
+                    </div>
+                </div>
+                <!-- FraudFilter AI: Ensemble Call Scam Detector -->
+                <div class="col-lg-4 col-md-6 mb-4 project-card" data-category="Machine Learning">
+                    <div class="card rounded">
+                        <img src="images/pipeline.png" class="card-img-top rounded-top" alt="FraudFilter AI Pipeline">
+                        <div class="card-body">
+                            <h5 class="card-title">FraudFilter AI: Ensemble Call Scam Detector using MLOps</h5>
+                            <p class="card-text">An AI-based solution to detect scam calls using an ensemble of machine learning models including Random Forest, Gradient Boosting, and Support Vector Machine.</p>
+                            <p class="card-text"><small class="text-muted">Duration: Apr 2024 - Apr 2024</small></p>
+                            <a href="https://github.com/boss2256/FraudFilter-AI-Ensemble-Call-Scam-Detector" class="btn btn-primary" target="_blank">View Github</a>
+                        </div>
+                    </div>
+                </div>
+                <!-- SentimentSeeker: Movie Review Analyzer -->
+                <div class="col-lg-4 col-md-6 mb-4 project-card" data-category="AI">
+                    <div class="card rounded">
+                        <img src="images/accuracy_roc_movie.png" class="card-img-top rounded-top" alt="SentimentSeeker Pipeline">
+                        <div class="card-body">
+                            <h5 class="card-title">SentimentSeeker: Deep Learning Movie Review Analyzer</h5>
+                            <p class="card-text">A deep learning project for classifying movie reviews using neural network models with embedding layers and dropout regularization.</p>
+                            <p class="card-text"><small class="text-muted">Duration: Mar 2024 - Mar 2024</small></p>
+                            <a href="https://github.com/boss2256/SentimentSeeker-Movie-Review-Analyzer" class="btn btn-primary" target="_blank">View Github</a>
+                        </div>
+                    </div>
+                </div>
+                <!-- ECOM Stocks Analysis using R -->
+                <div class="col-lg-4 col-md-6 mb-4 project-card" data-category="Data Science">
+                    <div class="card rounded">
+                        <img src="images/prices.png" class="card-img-top rounded-top" alt="ECOM Stocks Analysis">
+                        <div class="card-body">
+                            <h5 class="card-title">ECOM Stocks Analysis using R</h5>
+                            <p class="card-text">A comprehensive analysis of stock performance for Starbucks (SBUX), Amazon (AMZN), and Casey’s General Stores (CASY) from January 2000, including data visualization, return calculations, and portfolio optimization.</p>
+                            <p class="card-text"><small class="text-muted">Duration: May 2024 - May 2024</small></p>
+                            <a href="https://github.com/boss2256/R-E-Commerce-Stock-Analysis/tree/main" class="btn btn-primary" target="_blank">View Github</a>
+                        </div>
+                    </div>
+                </div>
+                <!-- ML Regression, Unsupervised Learning, and Classification -->
+                <div class="col-lg-4 col-md-6 mb-4 project-card" data-category="Machine Learning">
+                    <div class="card rounded">
+                        <img src="images/unsupervised_learning.png" class="card-img-top rounded-top" alt="ML Analysis">
+                        <div class="card-body">
+                            <h5 class="card-title">ML Regression, Unsupervised Learning, and Classification</h5>
+                            <p class="card-text">This project encompasses regression analysis on surveillance camera prices, unsupervised learning for college dataset clustering, and classification for college admission prediction using machine learning techniques.</p>
+                            <p class="card-text"><small class="text-muted">Duration: Mar 2024 - Mar 2024</small></p>
+                            <a href="https://github.com/boss2256/ml-regression-unsupervised-classification" class="btn btn-primary" target="_blank">View Github</a>
+                        </div>
+                    </div>
+                </div>
+
+
+
+
             </div>
         </div>
     </section>
@@ -85,5 +261,30 @@
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
     <script src="js/script.js"></script>
+    <script>
+        function filterProjects(category) {
+            var projects = document.getElementsByClassName('project-card');
+            var buttons = document.getElementsByClassName('filter-btn');
+            for (var i = 0; i < buttons.length; i++) {
+                buttons[i].classList.remove('active');
+                buttons[i].classList.add('btn-secondary');
+            }
+            event.target.classList.add('active');
+            event.target.classList.remove('btn-secondary');
+            if (category == 'all') {
+                for (var i = 0; i < projects.length; i++) {
+                    projects[i].style.display = 'block';
+                }
+            } else {
+                for (var i = 0; i < projects.length; i++) {
+                    if (projects[i].getAttribute('data-category') == category) {
+                        projects[i].style.display = 'block';
+                    } else {
+                        projects[i].style.display = 'none';
+                    }
+                }
+            }
+        }
+    </script>
 </body>
 </html>
