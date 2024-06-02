@@ -54,6 +54,7 @@
                 <button class="btn btn-primary filter-btn active" onclick="filterProjects('all')">All</button>
                 <button class="btn btn-secondary filter-btn" onclick="filterProjects('AI')">AI</button>
                 <button class="btn btn-secondary filter-btn" onclick="filterProjects('Machine Learning')">Machine Learning</button>
+                <button class="btn btn-secondary filter-btn" onclick="filterProjects('NLP')">NLP</button>
                 <button class="btn btn-secondary filter-btn" onclick="filterProjects('Web Development')">Web Development</button>
                 <button class="btn btn-secondary filter-btn" onclick="filterProjects('Cloud')">Cloud</button>
                 <button class="btn btn-secondary filter-btn" onclick="filterProjects('Business Intelligence')">Business Intelligence</button>
@@ -244,7 +245,7 @@
                     </div>
                 </div>
                 <!-- AWS Learning Management System Prototype -->
-                <div class="col-lg-4 col-md-6 mb-4 project-card" data-category="Business Intelligence">
+                <div class="col-lg-4 col-md-6 mb-4 project-card" data-category="Business Intelligence Cloud">
                     <div class="card rounded">
                         <img src="images/lms.png" class="card-img-top rounded-top" alt="AWS LMS">
                         <div class="card-body">
@@ -256,6 +257,19 @@
                         </div>
                     </div>
                 </div>
+                <!-- LDA TOPIC MODELLING YOUTUBE SOCIAL MEDIA REDDIT -->
+                <div class="col-lg-4 col-md-6 mb-4 project-card" data-category="NLP">
+                    <div class="card rounded">
+                        <img src="images/topicmodel.jpg" class="card-img-top rounded-top" alt="LDA Analysis">
+                        <div class="card-body">
+                            <h5 class="card-title">Social Media, Reddit, Mothership, Facebook LDA Topic Modelling Analysis</h5>
+                            <p class="card-text">This project involves a comprehensive analysis of social media data using LDA topic modeling to uncover key themes and insights.</p>
+                            <p class="card-text"><small class="text-muted">Duration: 27 May 2024 - 2 June 2024</small></p>
+                            <a href="https://github.com/boss2256/SocialMedia-LDA-TopicModeling/tree/main" class="btn btn-primary" target="_blank">View Github</a>
+                        </div>
+                    </div>
+                </div>
+                
 
 
 
@@ -294,7 +308,7 @@
                 }
             } else {
                 for (var i = 0; i < projects.length; i++) {
-                    if (projects[i].getAttribute('data-category') == category) {
+                    if (projects[i].getAttribute('data-category').includes(category)) {
                         projects[i].style.display = 'block';
                     } else {
                         projects[i].style.display = 'none';
@@ -302,6 +316,7 @@
                 }
             }
         }
+
     </script>
 </body>
 </html>
